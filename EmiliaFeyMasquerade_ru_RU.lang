@@ -1,0 +1,18 @@
+language.code=ru-RU
+language=Russian
+//[Reference] 'I got all dressed up for the masquerade but it doesn't sound like it's going to happen...'
+staxel.village.character.dialogue.festival.EmiliaFeyMasquerade.line:10000100=Я вся нарядилась для маскарада, а теперь, кажется, ничего не будет...
+//[Reference] 'I'm not sure what's going on but they told me to go home...'
+staxel.village.character.dialogue.festival.EmiliaFeyMasquerade.line:10000200=Я не знаю что происходит, но мне сказали идти домой...
+//[Reference] 'Maybe you could help them out? The manor is over at the ^c:1486b0;festival square^c:pop;.'
+staxel.village.character.dialogue.festival.EmiliaFeyMasquerade.line:10000300=Может ты сможешь помочь им? Усадьба прямо около ^c:1486b0;фестивальной площади^c:pop;.
+//[Reference] 'You can't miss it!'
+staxel.village.character.dialogue.festival.EmiliaFeyMasquerade.line:10000400=Ты не пропустишь ее!
+//[Reference] 'Did you find the manor?'
+staxel.village.character.dialogue.festival.EmiliaFeyMasquerade.line:10000500=Ты нашел усадьбу?
+//[Reference] 'It's over in the ^c:1486b0;festival square^c:pop;.'
+staxel.village.character.dialogue.festival.EmiliaFeyMasquerade.line:10000600=Она прямо рядом с ^c:1486b0;фестивальной площадью^c:pop;.
+//[Reference] 'I hope they manage to sort something out...'
+staxel.village.character.dialogue.festival.EmiliaFeyMasquerade.line:10000700=Я надеюсь они справятся с проблемой...
+//[Reference] 'This is my favourite festival!'
+staxel.village.character.dialogue.festival.EmiliaFeyMasquerade.line:10000800=Это мой любимый фестиваль!

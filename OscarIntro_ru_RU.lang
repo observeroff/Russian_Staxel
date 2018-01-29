@@ -1,0 +1,5 @@
+language.code=ru-RU
+language=Russian
+staxel.village.dialogue.intro.Oscar.line:10000100=Кто это у нас тут? Очередной создатель проблем?
+staxel.village.dialogue.intro.Oscar.line:10000200=^c:1486b0;{0-name}^c:pop;ом меня зовут. Я не спущу с тебя глаз.
+staxel.village.dialogue.intro.Oscar.line:10000300=О, и держись подальше от газона! Держи грязь на ферме!

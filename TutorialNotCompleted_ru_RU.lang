@@ -1,0 +1,8 @@
+language.code=ru-RU
+language=Russian
+staxel.village.dialogue.TutorialNotCompleted.line:10000100=Ты уже получил свою ^c:d03e37;лицензию фермера^c:pop;?
+staxel.village.dialogue.TutorialNotCompleted.line:10000200=Тебе нужно поговорить с ^c:1486b0;{0-fan}^c:pop; чтобы она могла показать тебе здесь все!
+staxel.village.dialogue.TutorialNotCompleted.line:10000300=Она должна быть где-то рядом с ^c:1486b0;Ратушей^c:pop; или ^c:1486b0;Таверной^c:pop;!
+staxel.village.dialogue.TutorialNotCompleted.line:10000400=Я слышал ^c:1486b0;{0-fan}^c:pop; искала тебя.
+staxel.village.dialogue.TutorialNotCompleted.line:10000500=Она сказала, что у нее не было шанса показать тебе все окрестности.
+staxel.village.dialogue.TutorialNotCompleted.line:10000600=Ты должен получить у нее награду!

@@ -1,0 +1,6 @@
+language.code=ru-RU
+language=Russian
+staxel.village.dialogue.intro.Rosemary.line:10000100=Оу... Приветик.
+staxel.village.dialogue.intro.Rosemary.line:10000200=Я ^c:1486b0;{0-name}^c:pop;.
+staxel.village.dialogue.intro.Rosemary.line:10000300=Мне кажется... Я видела тебя где-то раньше?
+//Воровать плохо, дружище

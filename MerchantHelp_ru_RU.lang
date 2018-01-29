@@ -1,0 +1,5 @@
+language.code=ru-RU
+language=Russian
+staxel.village.dialogue.MerchantHelp.line:10000100=Если ты хочешь ^c:d03e37;продать^c:pop; этот предмет...
+staxel.village.dialogue.MerchantHelp.line:10000200=Просто положи его на ^c:d03e37;стол продажи^c:pop; и затем ^c:d03e37;нажми^c:pop; на сам стол!
+staxel.village.dialogue.MerchantHelp.line:10000300=Я дам тебе ^c:d03e37;петали^c:pop; после этого!

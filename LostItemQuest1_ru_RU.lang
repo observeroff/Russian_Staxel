@@ -1,0 +1,50 @@
+language.code=ru-RU
+language=Russian
+//[Reference] 'Oh no...'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000100=О нет...
+//[Reference] 'I can't find my ^c:d03e37;{0-item}^c:pop; anywhere!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000200=Я не могу нигде найти ^c:d03e37;{0-item}^c:pop;!
+//[Reference] 'What should I do? My life is ruined!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000300=Что же мне делать? Моя жизнь кончена!
+//[Reference] 'I'll go look for it!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000400=Я попробую найти это!
+//[Reference] 'I hope you find it soon.'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000500=Надеюсь ты скоро найдешь это.
+//[Reference] 'You will? Oh thank you ^c:1486b0;{0-playername}^c:pop;!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000600=Ты правда поищешь? Ой, спасибо тебе, ^c:1486b0;{0-playername}^c:pop;!
+//[Reference] 'Please bring it to me as soon as you find it!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000700=Пожалуйста, принеси это сразу ко мне!
+//[Reference] 'Please let me know if you find my ^c:d03e37;{0-item}^c:pop;...'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000800=Пожалуйста, дай знать когда найдешь ^c:d03e37;{0-item}^c:pop;...
+//[Reference] 'Sure thing!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10000900=Конечно!
+//[Reference] 'Stop talking about it.'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001000=Хватит говорить об этом.
+//[Reference] 'Thank you ^c:1486b0;{0-playername}^c:pop;.'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001100=Спасибо, ^c:1486b0;{0-playername}^c:pop;.
+//[Reference] 'Please tell me if you see it anywhere.'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001200=Пожалуйста, скажи мне если увидишь это где-нибудь.
+//[Reference] 'Oh, you found my ^c:d03e37;{0-item}^c:pop;! Thank you!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001300=О, ты нашел ^c:d03e37;{0-item}^c:pop;! Спасибо!
+//[Reference] 'Thank you so much!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001400=Спасибо тебе огромное!
+//[Reference] 'What are you waiting for? Hand it over!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001500=Чего же ты ждешь? Отдай мне!
+//[Reference] 'Of course!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001600=Да, держи!
+//[Reference] 'Um... not yet.'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001700=Эм... пока нет.
+//[Reference] 'Thank you so much!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001800=Спасибо тебе огромное!
+//[Reference] 'I don't know what I would have done without you!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10001900=Я не знаю что делал бы без тебя!
+//[Reference] 'Please, let me give you this as a thanks!'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10002000=Возьми это, пожалуйста, в знак моей благодарности!
+//[Reference] 'Wha-?'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10002100=Чт-?
+//[Reference] 'But... it's mine...?'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10002200=Но... это мое...?
+//[Reference] 'Oh... okay. I understand.'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10002300=Ох... ладно. Я понимаю.
+//[Reference] 'I won't mention it again.'
+staxel.village.dialogue.quest.LostItemQuest.1.line:10002400=Я больше не буду об этом...

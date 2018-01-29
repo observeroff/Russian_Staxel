@@ -1,0 +1,24 @@
+language.code=ru-RU
+language=Russian
+//[Reference] ''
+staxel.village.character.dialogue.LeifBestFriend.line:10000100=^c:1486b0;{0-c_name}^c:pop;?
+//[Reference] 'Oh, it's just that she looks just like someone I used to know...'
+staxel.village.character.dialogue.LeifBestFriend.line:10000200=Ох, она выглядить именно так, как кое-кто, кого я знал давно...
+//[Reference] 'She's a bit too young to be her though.'
+staxel.village.character.dialogue.LeifBestFriend.line:10000300=Она слишком молода, чтобы быть ею...
+//[Reference] 'Someday I'll work up the courage to ask her about it.'
+staxel.village.character.dialogue.LeifBestFriend.line:10000400=Когда-нибудь я приложу все усилия, чтобы спросить ее об этом.
+//[Reference] 'Even though she's not in the village.'
+staxel.village.character.dialogue.LeifBestFriend.line:10000500=Даже если она не в деревне.
+//[Reference] 'I can't stop thinking about her.'
+staxel.village.character.dialogue.LeifBestFriend.line:10000600=Я не могу перестать думать о ней.
+//[Reference] 'There's just something I really want to ask her...'
+staxel.village.character.dialogue.LeifBestFriend.line:10000700=Я просто очень сильно хочу спросить ее...
+//[Reference] ''
+staxel.village.character.dialogue.LeifBestFriend.line:10000800=Ах, ^c:1486b0;{0-c_name}^c:pop;.
+//[Reference] 'Someday I'll work up the courage to talk to you...'
+staxel.village.character.dialogue.LeifBestFriend.line:10000900=Когда-нибудь я приложу все усилия, чтобы поговорить с тобой...
+//[Reference] 'Oh! Please forgive my mumbling.'
+staxel.village.character.dialogue.LeifBestFriend.line:10001000=Ой! Пожалуйста, прости меня за мое бормотание.
+//[Reference] 'It helps me keep my thoughts in order.'
+staxel.village.character.dialogue.LeifBestFriend.line:10001100=Оно помогает мне держать себя под контролем.

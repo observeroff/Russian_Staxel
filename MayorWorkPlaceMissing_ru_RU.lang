@@ -1,0 +1,14 @@
+language.code=ru-RU
+language=Russian
+//[Reference] 'Documents keep piling up at my house.'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000100=Документы продолжают накапливаться у меня дома.
+//[Reference] 'The lack of a ^c:1486b0;town hall^c:pop; is wreaking havoc on my workflow.'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000200=Разгром в ^c:1486b0;ратуше^c:pop; нарушает мой рабочий уклад.
+//[Reference] 'At this rate, the opposition might pull ahead!'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000300=При таком раскладе оппозиция может выйти вперед!
+//[Reference] 'When will the ^c:1486b0;town hall^c:pop; repairs begin?'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000400=Когда начнется ремонт ^c:1486b0;ратуши^c:pop;?
+//[Reference] 'I miss my office.'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000500=Я скучаю по своему кабинету.
+//[Reference] 'I knew I should have hired a better contractor...'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000600=Я знал, что нужно было нанять лучшего подрядчика...

@@ -1,0 +1,9 @@
+language.code=ru-RU
+language=Russian
+staxel.village.dialogue.Merchant.line:10000100=Хей! Я {0-name}, торговец!
+staxel.village.dialogue.Merchant.line:10000200=Это всего-лишь мое имя; не надо на самом деле меня грабить.
+staxel.village.dialogue.Merchant.line:10000300=Хочешь что-нибудь купить?
+staxel.village.dialogue.Merchant.line:10000400=С тобой приятно иметь дело!
+staxel.village.dialogue.Merchant.line:10000500=Я куплю это!
+staxel.village.dialogue.Merchant.line:10000600=Положи предмет обратно, если передумаешь.
+staxel.village.dialogue.Merchant.line:10000700=Чтобы продать мне вещь, положи её на маленький стол и дотронься до него.

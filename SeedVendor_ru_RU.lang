@@ -1,0 +1,7 @@
+language.code=ru-RU
+language=Russian
+staxel.village.dialogue.SeedVendor.line:10000100=Привет. Я {0-name}.
+staxel.village.dialogue.SeedVendor.line:10000200=Я продаю семена.
+staxel.village.dialogue.SeedVendor.line:10000300=Роб продает магическую воду, если ты хочешь, чтобы растения выросли быстро.
+staxel.village.dialogue.SeedVendor.line:10000400=Спасибо.
+staxel.village.dialogue.SeedVendor.line:10000500=Спасибо.

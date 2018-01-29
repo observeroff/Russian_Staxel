@@ -1,0 +1,4 @@
+language.code=ru-RU
+language=Russian
+staxel.village.dialogue.quest.FetchQuestExpiry.1.line:10000100=Ох... это ты...
+staxel.village.dialogue.quest.FetchQuestExpiry.1.line:10000200=Мне пришлось найти ^c:d03e37;{0-requiredItem}^c:pop; самому.

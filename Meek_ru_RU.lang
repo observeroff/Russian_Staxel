@@ -1,0 +1,40 @@
+language.code=ru-RU
+language=Russian
+//[Reference] 'People always ask me to do things for them...'
+staxel.village.dialogue.Meek.line:10000100=Люди часто просят меня о помощи...
+//[Reference] 'I never turn them down.'
+staxel.village.dialogue.Meek.line:10000200=Я никогда не отказываю.
+//[Reference] 'Sometimes it's hard to get everything done on time...'
+staxel.village.dialogue.Meek.line:10000300=Бывает трудно выполнить все вовремя...
+//[Reference] 'I wish ^c:1486b0;{0-tomboy_name}^c:pop; would be a bit less rowdy...'
+staxel.village.dialogue.Meek.line:10000400=Я хочу, чтобы ^c:1486b0;{0-tomboy_name}^c:pop; меньше скандалила...
+//[Reference] 'She makes such a racket whenever she's about the town.'
+staxel.village.dialogue.Meek.line:10000500=Она корчится и шумит каждый раз, когда мы говорим о городе.
+//[Reference] 'It's a bit intimidating.'
+staxel.village.dialogue.Meek.line:10000600=Это немного пугает.
+//[Reference] 'It's so nice not to have any rowdy people in town!'
+staxel.village.dialogue.Meek.line:10000700=Так здорово, что в городе нет шумных людей!
+//[Reference] 'I can lie in the grass and read a book without being disturbed.'
+staxel.village.dialogue.Meek.line:10000800=Я могу читать книгу и не беспокоиться о том, что меня что-то отвлечет.
+//[Reference] 'If I say I'll do something, nothing will stop me from getting it done.'
+staxel.village.dialogue.Meek.line:10000900=Если я скажу, что сделаю что-нибудь - никто не остановит меня.
+//[Reference] 'There are few things worse than being unreliable.'
+staxel.village.dialogue.Meek.line:10001000=Есть вещи хуже ненадежности.
+//[Reference] 'I'd love to go out and see more of the world.'
+staxel.village.dialogue.Meek.line:10001100=Было бы здорово увидеть остальной мир.
+//[Reference] 'I don't really have the time for it though.'
+staxel.village.dialogue.Meek.line:10001200=Но у меня нет на это времени, совсем.
+//[Reference] 'Even if I did, I'm not sure I'd be able to brave it alone!'
+staxel.village.dialogue.Meek.line:10001300=Даже если бы я отправился, то... Не уверен, что смог бы путешествовать один!
+//[Reference] 'It might not seem like it at first, but I actually really enjoy a good chat.'
+staxel.village.dialogue.Meek.line:10001400=С первого взгляда, может, не скажешь, но я очень люблю поболтать.
+//[Reference] 'I think most of us here in the village do!'
+staxel.village.dialogue.Meek.line:10001500=Я думаю большинство в городе любит! Общительные мы люди.
+//[Reference] 'Get to know people a bit better and I'm sure they'll start to open up to you.'
+staxel.village.dialogue.Meek.line:10001600=Узнай людей чуть лучше и, я уверен, они начнут открываться тебе.
+//[Reference] 'It can be pretty hard to be spontaneous with people you've only just met.'
+staxel.village.dialogue.Meek.line:10001700=Трудно быть собой с незнакомыми людьми.
+//[Reference] 'I prefer to think carefully about what I want to say.'
+staxel.village.dialogue.Meek.line:10001800=Я предпочитаю тчательно обдумывать все, что собираюсь сказать.
+//[Reference] 'Plan ahead so that I don't say anything stupid, you know?'
+staxel.village.dialogue.Meek.line:10001900=Планировать все заранее... Чтобы не сказать ничего глупого, понимаешь?

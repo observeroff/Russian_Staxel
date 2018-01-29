@@ -1,0 +1,5 @@
+language.code=ru-RU
+language=Russian
+staxel.village.dialogue.intro.Emilia.line:10000100=Привет-привет!
+staxel.village.dialogue.intro.Emilia.line:10000200=Не думаю, что мы встречались когда-либо!
+staxel.village.dialogue.intro.Emilia.line:10000300=Я ^c:1486b0;{0-name}^c:pop;! Надеюсь мы поладим!

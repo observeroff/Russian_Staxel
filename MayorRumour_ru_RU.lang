@@ -1,0 +1,124 @@
+language.code=ru-RU
+language=Russian
+//[Reference] 'Hmm...'
+staxel.village.dialogue.MayorRumour.line:10000300=Хмм...
+//[Reference] 'I must say I've been thinking about raising taxes again recently.'
+staxel.village.dialogue.MayorRumour.line:10000400=Должен сказать, недавно я думал над повышением налогов
+//[Reference] 'We could really use some renovations'
+staxel.village.dialogue.MayorRumour.line:10000500=Мы могли бы многое перестроить.
+//[Reference] 'You should see the state of my office'
+staxel.village.dialogue.MayorRumour.line:10000600=Только посмотри на мой офис.
+//[Reference] 'Not even a single marble column!'
+staxel.village.dialogue.MayorRumour.line:10000700=Ни одной мраморной колонны!
+//[Reference] 'Why are they so against opening a new coal mine?'
+staxel.village.dialogue.MayorRumour.line:10000800=Почему они так против открытия новой угольной шахты?
+//[Reference] 'It's not like it would do any real damage to the environment...'
+staxel.village.dialogue.MayorRumour.line:10000900=Она, вроде, не причинит никакого вреда окружающей среде...
+//[Reference] 'Oh, sorry, I didn't see you there!'
+staxel.village.dialogue.MayorRumour.line:10001000=Ой, прости, не заметил тебя!
+//[Reference] 'They tell me the opposition is trying to build a strong following.'
+staxel.village.dialogue.MayorRumour.line:10001100=Они говорят мне, что оппозиция пытается создать строгие правила.
+//[Reference] 'Not on my watch!'
+staxel.village.dialogue.MayorRumour.line:10001200=Не в мою смену!
+//[Reference] 'If there's one thing I love most about our little town...'
+staxel.village.dialogue.MayorRumour.line:10004300=Есть одна вещь, которую я люблю больше всего в нашем маленьком городке...
+//[Reference] 'It's the degree of trust we residents have in each other.'
+staxel.village.dialogue.MayorRumour.line:10004400=Это доверие людей друг к другу.
+//[Reference] 'We haven't needed a police force in more than a decade!'
+staxel.village.dialogue.MayorRumour.line:10004500=У нас нет полиции уже 10 лет!
+//[Reference] 'That's why I abolished it. Nothing to do with saving money!'
+staxel.village.dialogue.MayorRumour.line:10004600=Именно поэтому я закрыл его. Это не из-за экономии!
+//[Reference] 'Airships are extremely beneficial to our island economy!'
+staxel.village.dialogue.MayorRumour.line:10004700=Дирижабли чрезвычайно полезны для нашей экономики!
+//[Reference] 'The requisite traffic laws, however, are nothing if not a headache.'
+staxel.village.dialogue.MayorRumour.line:10004800=Однако законы воздушного движения - головная боль.
+//[Reference] 'I've lost track of the number of times I've written amendments...'
+staxel.village.dialogue.MayorRumour.line:10004900=Я сбился со счету сколько раз я исправлял их...
+//[Reference] 'Why, just the other week a near miss shaved some tiles off my roof!'
+staxel.village.dialogue.MayorRumour.line:10005000=Почему? На той недели из-за близорукости мне сбили черепицу!
+//[Reference] 'I swear that travelling merchant is skipping out on his permit fees...'
+staxel.village.dialogue.MayorRumour.line:10005100=Я клянусь, этот торговец не платит за перелеты...
+//[Reference] 'You know the one I mean right? The one with the funny hood...'
+staxel.village.dialogue.MayorRumour.line:10005200=Догадался о ком я? Я о том... со смешным капюшоном...
+//[Reference] 'There's no way our funds for this month should be this low!'
+staxel.village.dialogue.MayorRumour.line:10005300=Не может быть, чтобы наши доходы за месяц были настолько низкими!
+//[Reference] 'Huh? What do you mean they all have funny hoods?'
+staxel.village.dialogue.MayorRumour.line:10005400=А? Что ты имеешь ввиду? У всех есть забавные капюшоны?
+//[Reference] 'Be careful when cultivating crops in large quantities.'
+staxel.village.dialogue.MayorRumour.line:10005500=Будь осторожен, когда собираешь большой урожай.
+//[Reference] 'If you start selling too much at once, it will result in an oversupply.'
+staxel.village.dialogue.MayorRumour.line:10005600=Если ты начнешь продавать сразу все - будет избыток.
+//[Reference] 'The surplus will gradually be worth less and less the more you sell.'
+staxel.village.dialogue.MayorRumour.line:10005700=The surplus will gradually be worth less and less the more you sell.
+//[Reference] 'It takes quite a while for prices to return to normal.'
+staxel.village.dialogue.MayorRumour.line:10005800=Через какое-то время цены вернутся в привычное состояние.
+//[Reference] 'The other day, we had a foreign delegate visiting.'
+staxel.village.dialogue.MayorRumour.line:10005900=У нас скоро будет делегация с визитом.
+//[Reference] 'One of those cactus people from warmer lands.'
+staxel.village.dialogue.MayorRumour.line:10006000=Эти кактусы-люди из жарких краев.
+//[Reference] 'It caused quite the stir!'
+staxel.village.dialogue.MayorRumour.line:10006100=Из-за этого теперь все вверх дном!
+//[Reference] 'I may start imposing restrictions on ^c:1486b0;{0-s_name}^c:pop;'s experiments.'
+staxel.village.dialogue.MayorRumour.line:10006200=Кажется пора вводить ограничения на эксперименты ^c:1486b0;{0-s_name}^c:pop;.
+//[Reference] 'I've been hearing some... disturbing rumours regarding their subjects.'
+staxel.village.dialogue.MayorRumour.line:10006300=Я слышал кое-что... тревожные слухи о том, что она делает.
+//[Reference] 'There are limits to what constitutes ethical research!'
+staxel.village.dialogue.MayorRumour.line:10006400=Существуют пределы того, над чем можно ставить эксперименты!
+//[Reference] 'The costs incurred in damages to the town are inexcusable!'
+staxel.village.dialogue.MayorRumour.line:10006500=Расходы, причиненные городу, непростительны!
+//[Reference] 'You have no idea how hard I fought to get this place classified as a town.'
+staxel.village.dialogue.MayorRumour.line:10006600=Ты даже не представляешь, как сильно я боролся за то, чтобы это место начали называть городом.
+//[Reference] 'By all rights, our low population should rule us out...'
+staxel.village.dialogue.MayorRumour.line:10006700=По всем правилам мы не должны так называться, из-за маленького населения...
+//[Reference] 'But with some creative negotiation, I managed to get it through!'
+staxel.village.dialogue.MayorRumour.line:10006800=Но мне удалось договориться!
+//[Reference] 'In the end, no one seems to care...'
+staxel.village.dialogue.MayorRumour.line:10006900=В конце-концов, кажется никому нет дела до этого...
+//[Reference] 'I've been reading through some of our legislation in my spare time.'
+staxel.village.dialogue.MayorRumour.line:10007000=Раньше я читал местные законы в свободное время.
+//[Reference] 'Did you know that until recently, we required all barns to contain a stack of empty crates?'
+staxel.village.dialogue.MayorRumour.line:10007100=Ты знал, что до недавнего времени мы требовали, чтобы во всех амбарах была стопка пустых ящиков?
+//[Reference] 'Some of the other by-laws are even stranger...'
+staxel.village.dialogue.MayorRumour.line:10007200=Есть другие законы еще страннее...
+//[Reference] 'Some days, I start to think I need an assistant.'
+staxel.village.dialogue.MayorRumour.line:10007300=Порой я думаю что мне нужен помощник.
+//[Reference] 'Handling all the work myself can be quite a burden!'
+staxel.village.dialogue.MayorRumour.line:10007400=Тащить все на себе становится действительно трудно!
+//[Reference] 'But it's hard to find someone I trust to do a good enough job...'
+staxel.village.dialogue.MayorRumour.line:10007500=Но так трудно найти кого-то, кому я доверяю...
+//[Reference] '^c:1486b0;{0-j_name}^c:pop; seems to have filed a proposal for an enormous office complex.'
+staxel.village.dialogue.MayorRumour.line:10007600=Кажется ^c:1486b0;{0-j_name}^c:pop; подал заявку на огромный офисный комплекс.
+//[Reference] 'Supposedly, he has ambitions to start some sort of company...'
+staxel.village.dialogue.MayorRumour.line:10007700=Предположительно, у него есть амбиции начать какую-то компанию...
+//[Reference] 'I had to reject it, of course.'
+staxel.village.dialogue.MayorRumour.line:10007800=Я был вынужден отказать, конечно же.
+//[Reference] 'It's important to preserve our rural aesthetic!'
+staxel.village.dialogue.MayorRumour.line:10007900=Важно сохранить нашу сельскую эстетику!
+//[Reference] 'Why are there always so many complaints to trawl through!'
+staxel.village.dialogue.MayorRumour.line:10008000=Почему всегда так много жалоб?!
+//[Reference] 'We don't even have that many residents!'
+staxel.village.dialogue.MayorRumour.line:10008100=У нас даже не так много жителей!
+//[Reference] 'I... I'm not even sure what I'm looking at here!'
+staxel.village.dialogue.MayorRumour.line:10008200=Я... Я даже не уверен на что я здесь смотрю!
+//[Reference] 'These proposals from ^c:1486b0;{0-c_name}^c:pop; make my head spin just by looking at them.'
+staxel.village.dialogue.MayorRumour.line:10008300=Меня воротит от предложений ^c:1486b0;{0-c_name}^c:pop;.
+//[Reference] 'Rejected! Incomprehensible and potentially dangerous!'
+staxel.village.dialogue.MayorRumour.line:10008400=Отклонить! Непонятно и потенциально опасно!
+//[Reference] 'Every year, ^c:1486b0;{0-o_name}^c:pop; submits new proposals to re-establish a police force.'
+staxel.village.dialogue.MayorRumour.line:10008500=Каждый год ^c:1486b0;{0-o_name}^c:pop; присылает новые предложения по-поводу восстановлении полиции.
+//[Reference] 'I invariably give him the same answer yet still he persists.'
+staxel.village.dialogue.MayorRumour.line:10008600=Я неизменно даю ему один и тот же ответ, но он продолжает.
+//[Reference] 'Our town is too peaceful to justify the costs of maintaining police!'
+staxel.village.dialogue.MayorRumour.line:10008700=У нас слишком тихо и спокойно, чтобы тратить деньги на полицию!
+//[Reference] 'Ah, ^c:1486b0;{0-e_name}^c:pop;...'
+staxel.village.dialogue.MayorRumour.line:10008800=Эх, ^c:1486b0;{0-e_name}^c:pop;...
+//[Reference] 'I'd seriously consider approving her request for a skate park.'
+staxel.village.dialogue.MayorRumour.line:10008900=Я бы серьезно подумал об одобрении ее просьбы о создании скейт-парка.
+//[Reference] 'We just don't have the funds to spare for such things right now.'
+staxel.village.dialogue.MayorRumour.line:10009000=Сейчас у нас просто нет денег на подобные развлечения.
+//[Reference] 'Once a month, ^c:1486b0;{0-l_name}^c:pop; requests permission to grow more trees in town.'
+staxel.village.dialogue.MayorRumour.line:10009100=Каждый месяц ^c:1486b0;{0-l_name}^c:pop; просит разрешения на посадку новых деревьев вокруг города.
+//[Reference] 'I keep granting it but he never does anything about it...'
+staxel.village.dialogue.MayorRumour.line:10009200=Я каждый раз одобряю их, но он ничего не делает...
+//[Reference] 'Perhaps my notices are going astray?'
+staxel.village.dialogue.MayorRumour.line:10009300=Может быть мои разрешения до него не доходят?

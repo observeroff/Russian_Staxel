@@ -1,0 +1,6 @@
+language.code=ru-RU
+language=Russian
+staxel.village.dialogue.intro.Leif.line:10000100=Привет.
+staxel.village.dialogue.intro.Leif.line:10000200=Я управляющий этим магазином.
+staxel.village.dialogue.intro.Leif.line:10000300=Зовут ^c:1486b0;{0-name}^c:pop;.
+staxel.village.dialogue.intro.Leif.line:10000400=Заглядывай!

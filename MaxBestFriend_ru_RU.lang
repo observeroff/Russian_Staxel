@@ -1,0 +1,12 @@
+language.code=ru-RU
+language=Russian
+//[Reference] 'A few years ago, I took my name out of the running for mayor.'
+staxel.village.character.dialogue.MaxBestFriend.line:10000100=Несколько лет назад я не стал балотироваться в мэры.
+//[Reference] 'I felt like my time had passed, that I had no more to contribute.'
+staxel.village.character.dialogue.MaxBestFriend.line:10000200=Я чувствовал, что мое время прошло и мне больше нечего менять.
+//[Reference] 'To be honest, I really only wanted to retire and live in peace.'
+staxel.village.character.dialogue.MaxBestFriend.line:10000300=Честно говоря, я на самом деле хотел уединиться и спокойно жить дальше.
+//[Reference] 'Everyone voted for me anyway.'
+staxel.village.character.dialogue.MaxBestFriend.line:10000400=Но все все равно голосовали за меня.
+//[Reference] 'I took it as a sign and redoubled my efforts!'
+staxel.village.character.dialogue.MaxBestFriend.line:10000500=Я принял это как знак и удвоил свои усилия!
