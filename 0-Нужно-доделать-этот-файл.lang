@@ -5,7 +5,7 @@ language=Русский
 font=staxel/fonts/
 
 //[Reference] 'Achievement unlocked: {0-achievement}!'
-achievements.achievementUnlocked=Достижение получено:
+achievements.achievementUnlocked=Достижение получено: {0-achievement}!
 //[Reference] 'Buy:'
 catalogue.buy=Купить:
 //[Reference] 'Clear'
