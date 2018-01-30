@@ -358,7 +358,6 @@ multiplayerMenu.serverList=Список
 multiplayerMenu.serverPassword=Пароль (опционально):
 //[Reference] 'The festival has ended.'
 notifications.festivalEnded=Фестиваль окончен.
-
 //[Reference] 'It looks like something is happening in the village!'
 notifications.festivalStarted=Похоже в городе что-то происходит!
 
