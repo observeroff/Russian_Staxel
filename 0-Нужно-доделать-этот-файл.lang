@@ -5,7 +5,7 @@ language=Русский
 font=staxel/fonts/
 
 //[Reference] 'Achievement unlocked: {0-achievement}!'
-achievements.achievementUnlocked=Достижение получено:
+achievements.achievementUnlocked=Достижение получено: {0-achievement}!
 //[Reference] 'Buy:'
 catalogue.buy=Купить:
 //[Reference] 'Clear'
@@ -13,9 +13,9 @@ catalogue.clear=Очистить
 
 //test
 //[Reference] 'Not enough money!'
-catalogue.notEnoughMoney=Нехватает денег
+catalogue.notEnoughMoney=Не хватает денег
 //[Reference] 'This item cannot be sold!'
-catalogue.notSellable=Этот предмет нельзя продать!
+catalogue.notSellable=Это нельзя продать!
 //[Reference] 'Sell'
 catalogue.performSale=Продать
 //[Reference] 'Sell:'
@@ -24,48 +24,48 @@ catalogue.sell=Продать:
 catalogue.total=Всего
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] '^c:F2E200;stopTime'
-commands.stopTime.description=^c:F2E200;Время на паузе
+commands.stopTime.description=^c:F2E200;Пауза
 //[Reference] 'Time resumed'
 commands.stopTime.resume=Время восстановлено
 //[Reference] 'Time stopped'
-commands.stopTime.stop=Время на паузе
+commands.stopTime.stop=Пауза
 //[Reference] 'success'
 commands.tripod.success=Успех
 
 //[Reference] 'Break'
-controlHint.verb.Break=Пауза
+controlHint.verb.Break=Ломать
 //[Reference] 'Buy'
 controlHint.verb.Buy=Купить
 //[Reference] 'Calm'
-controlHint.verb.Calm=
+controlHint.verb.Calm=Покой
 //[Reference] 'Cast'
-controlHint.verb.Cast=
+controlHint.verb.Cast=Бросить
 //[Reference] 'Catch'
 controlHint.verb.Catch=Поймать
 //[Reference] 'Check'
-controlHint.verb.Check=Проверить
+controlHint.verb.Check=Посмотреть
 //[Reference] 'Chop'
-controlHint.verb.Chop=Срубить
+controlHint.verb.Chop=Рубить
 //[Reference] 'Command'
-controlHint.verb.Command=
+controlHint.verb.Command=Команда
 //[Reference] 'Craft'
-controlHint.verb.Craft=Сделать
+controlHint.verb.Craft=Крафт
 //[Reference] 'Cancel'
 controlHint.verb.default.Cancel=Отмена
 //[Reference] 'Charge'
-controlHint.verb.default.Charge=Зарядить
+controlHint.verb.default.Charge=Заряд
 //[Reference] 'Place'
 controlHint.verb.default.Dock=Разместить
 //[Reference] 'Drink'
-controlHint.verb.default.Drink=Выпить
+controlHint.verb.default.Drink=Пить
 //[Reference] 'Eat'
-controlHint.verb.default.Eat=Съесть
+controlHint.verb.default.Eat=Есть
 //[Reference] 'Harvest'
 controlHint.verb.default.Harvest=Собрать
 //[Reference] 'Interact'
-controlHint.verb.default.Interact=Взаимодействовать
+controlHint.verb.default.Interact=Действие
 //[Reference] 'Restart'
-controlHint.verb.default.ManualRestart=Перезапустить
+controlHint.verb.default.ManualRestart=Перезапуск
 //[Reference] 'Memorise'
 controlHint.verb.default.Memorise=Запомнить
 //[Reference] 'Replace'
@@ -75,9 +75,9 @@ controlHint.verb.default.Rotate=Вращать
 //[Reference] 'Stop'
 controlHint.verb.default.Stop=Стоп
 //[Reference] 'Throw'
-controlHint.verb.default.Throw=Бросить
+controlHint.verb.default.Throw=Кинуть
 //[Reference] 'Pick Up'
-controlHint.verb.default.Undock=Подобрать
+controlHint.verb.default.Undock=Взять
 //[Reference] 'Use'
 controlHint.verb.default.Use=Использовать
 //[Reference] 'Dig'
@@ -89,7 +89,7 @@ controlHint.verb.Inspect=Осмотреть
 //[Reference] 'Launch'
 controlHint.verb.Launch=Запустить
 //[Reference] 'Milk'
-controlHint.verb.Milk=
+controlHint.verb.Milk=Доить
 //[Reference] 'Open'
 controlHint.verb.Open=Открыть
 //[Reference] 'Plant'
@@ -99,13 +99,13 @@ controlHint.verb.Play=Играть
 //[Reference] 'Pull'
 controlHint.verb.Pull=Вырвать
 //[Reference] 'Reap'
-controlHint.verb.Reap=Получить
+controlHint.verb.Reap=Косить
 //[Reference] 'Rename'
 controlHint.verb.Rename=Переименовать
 //[Reference] 'Reset'
 controlHint.verb.Reset=Сброс
 //[Reference] 'Resize'
-controlHint.verb.Resize=Изменить размер
+controlHint.verb.Resize=Размер
 //[Reference] 'Sell'
 controlHint.verb.Sell=Продать
 //[Reference] 'Sell Back'
@@ -119,13 +119,13 @@ controlHint.verb.Sleep=Спать
 //[Reference] 'Sweep'
 controlHint.verb.Sweep=Мести
 //[Reference] 'Chat'
-controlHint.verb.Talk=Чат
+controlHint.verb.Talk=Говорить
 //[Reference] 'Till'
-controlHint.verb.Till=Возделать
+controlHint.verb.Till=Пахать
 //[Reference] 'Water'
 controlHint.verb.Water=Полить
 //[Reference] 'Item Hotkeys'
-controllerHints.hotkeys=
+controllerHints.hotkeys=Горячие клавиши
 //[Reference] 'Inventory'
 controllerHints.inventory=Рюкзак
 //[Reference] 'Material Quick-Pick'
@@ -137,17 +137,17 @@ controllerHints.placeAndRotate=Размещение и разворот
 //[Reference] 'Assemble'
 crafting.action.keyword.assemble=Собирать
 //[Reference] 'Bake'
-crafting.action.keyword.bake=Выпекать
+crafting.action.keyword.bake=Печь
 //[Reference] 'Boil'
 crafting.action.keyword.boil=Варить
 //[Reference] 'Carve'
-crafting.action.keyword.carve=Вырезать
+crafting.action.keyword.carve=Нарезка
 //[Reference] 'Carve design into'
-crafting.action.keyword.carvedesigninto=
+crafting.action.keyword.carvedesigninto=Вырезание
 //[Reference] 'Combine'
-crafting.action.keyword.combine=Скомбинировать
+crafting.action.keyword.combine=Соединять
 //[Reference] 'Construct'
-crafting.action.keyword.construct=Сооружать
+crafting.action.keyword.construct=Строить
 //[Reference] 'Cut'
 crafting.action.keyword.cut=Резать
 //[Reference] 'Fry'
@@ -155,11 +155,11 @@ crafting.action.keyword.fry=Жарить
 //[Reference] 'Mix'
 crafting.action.keyword.mix=Смешать
 //[Reference] 'Reap'
-crafting.action.keyword.reap=Получить
+crafting.action.keyword.reap=Жать
 //[Reference] 'Saw'
 crafting.action.keyword.saw=Пилить
 //[Reference] 'Tile'
-crafting.action.keyword.tile=
+crafting.action.keyword.tile=Крыть
 //[Reference] '{0-itemOne}, {1-itemTwo}'
 crafting.action.task.listedItems={0-itemOne}, {1-itemTwo}
 //[Reference] '{0-keyword} {1-listedItems} and {2-lastListedItem}'
@@ -169,14 +169,14 @@ crafting.action.task.multiples={0-count}x {1-item}
 //[Reference] '{0-keyword} {1-item}'
 crafting.action.task.oneItem={0-keyword} {1-item}
 //[Reference] 'That wasn't a recipe, Oops!'
-crafting.notifications.failedCraft=Ой, это был не рецепт!
+crafting.notifications.failedCraft=Ой, это не был рецепт рецепт!
 //[Reference] 'You can't make anything with these items...'
-crafting.notifications.notACraft=Ты не можешь ничего из этого сделать...
+crafting.notifications.notACraft=Из этих предметов ничего не сделать...
 //[Reference] 'You don't have enough reagents anymore.'
-crafting.notifications.NotEnough=
+crafting.notifications.NotEnough=У тебя недостаточно материалов.
 
 //[Reference] 'You completed the recipe for {0-item}!'
-crafting.recipeComplete=Ты сделал {0-item}!
+crafting.recipeComplete=Вы сделали {0-item}!
 
 //[Reference] 'Helped out with the Staxel interface.'
 credits.13lueWolf.description=Помогал с интерфейсом в Staxel.
@@ -185,902 +185,903 @@ credits.amos.description=Помогал с программированием и
 //[Reference] 'Back to main menu'
 credits.back=В главное меню
 //[Reference] 'Is Staxel's sound designer. He's oblivious to the luxury of listening to music while he works.'
-credits.badger.description=
+credits.badger.description=Это саунд-дизайнер. Он единственный кому разрешено слушать музыку на работе.
 //[Reference] 'He is the lead developer, responsible for the coding and general awesomeness behind the game. He streams often so feel free to join him on twitch and ask some questions! Yep, he used to work on Starbound.'
-credits.bartwe.description=Ведущий разработчик, отвечает за код и основные потрясающие вещи в игре. Часто стримит, так что Вы можете зайти к нему и задать любые вопросы! А-г-а, он работал над Starbound.
+credits.bartwe.description=Ведущий разработчик, отвечает за код и основные потрясающие вещи в игре. Он часто стримит, поэтому не стесняйтесь присоединиться к нему на twitch и задавать вопросы! А-г-а, он работал над Starbound.
 //[Reference] 'She was always on hand to help out with additional coding and bug fixes.'
-credits.beth.description=Всегда помогала исправлять ошибки в коде и другие баги.
+credits.beth.description=Она всегда была под рукой, чтобы помочь с дополнительным кодированием и исправлениями ошибок.
 //[Reference] 'He is a talented musician who has been creating lush soundtracks to help immerse you into the Staxel universe.'
-credits.curtis.description=Талантливый музыкант, написавший отличные саундтреки, чтобы помочь Вам проникнуться вселенной Staxel.
+credits.curtis.description=Талантливый музыкант, который создает пышные саундтреки, чтобы помочь погрузить вас во Вселенную Staxel.
 //[Reference] 'Is yet another programmer. Generally works on helping people understand how to make mods. If you see a zombie around it's probably him.'
-credits.deamonhunter.description=Еще один программист. В основном помогает людям разобраться с тем как делать модификации. Если увидите зомби - это он.
+credits.deamonhunter.description=Еще один программист. В основном помогает людям разобраться с тем как делать модификации. Если увидите зомби - это его рук дело.
 //[Reference] 'Helped out with writing all sorts.'
-credits.demanRisu.description=
+credits.demanRisu.description=Помог с написанием текстов.
 //[Reference] 'is another member of the programmer team who works on the more tedious stuff.'
-credits.h1n1.description=еще один член команды программистов, который делает скучную работу.
+credits.h1n1.description=Еще один член команды программистов, который работает над более утомительными вещами.
 //[Reference] 'A faceless entity between realms; only exists when you’re not looking. In its spare time, programs.'
 credits.moocowtg.description=Безликая сущность между мирами; существует только когда Вы не смотрите. В свободное время пишет программы.
 //[Reference] 'He is Staxel's content lead, programmer and writer. His cat writes approximately half of his code.'
-credits.moomba.description=Ведущий контент-лидер, программист и сценарист. Его кот пишет примерно половину кода.
+credits.moomba.description=Ведущий контент-лидер, программист и сценарист. Его кот пишет примерно половину его кода.
 //[Reference] 'Razz is a 3D artist working closely with Steampunkstein to bring you guys cute furniture sets and anything else she can come up with.'
-credits.razzleberryFox.description=Разз - 3D 
+credits.razzleberryFox.description=Razz - 3D-художник, работающий в сотрудничестве с Steampunkstein, чтобы принести вам, милые наборы мебели  и все остальное :3
 //[Reference] 'Helped kept the team on track and busy.'
-credits.sledra.description=
+credits.sledra.description=Держит дух команды.
 //[Reference] 'He has contributed some lovely soundtracks for Staxel.'
-credits.solatrus.description=
+credits.solatrus.description=Он написал несколько прекрасных саундтреков для Staxel.
 //[Reference] 'Special Thanks'
-credits.specialThanks=
+credits.specialThanks=Также Спасибо:
 //[Reference] 'He is the artist. He has worked hard to produce all the in game models, and make the game as visually appealing as possible.'
-credits.steampunkstein.description=
+credits.steampunkstein.description=Он художник. Он упорно трудился, чтобы принести все в игровых моделях, и сделать игру на столько красивой, как это возможно.
 //[Reference] 'He is the assistant producer, involved with the game design and generally has a finger in every pie.'
-credits.teaGadd.description=
+credits.teaGadd.description=Он является помощником продюсера, занимается дизайном игры и вообще имеет палец в каждом пироге.
 //[Reference] 'He is another programmer. Likes include: programming.'
-credits.terrorcell.description=
+credits.terrorcell.description=Любит погружаться в программирование.
 //[Reference] 'He manages our marketing & PR.'
-credits.thomas.description=
+credits.thomas.description=Он управляет нашим маркетингом и PR.
 //[Reference] 'Is our dedicated environment designer. He designs the premade structures that you'll find in-game.'
-credits.winters.description=
+credits.winters.description=Профессиональный дизайнер среды. Он проектирует готовые структуры, которые вы найдете в игре.
 
 //[Reference] 'You're starting to feel sleepy...'
-dayNight.hintNightTransition=
+dayNight.hintNightTransition=Вы начинаете засыпать...
 
 //[Reference] 'MissingNotification: {0-notificationCode}'
-debug.MissingNotification=
+debug.MissingNotification=MissingNotification: {0-notificationCode}
 
 //[Reference] 'Back'
-error.back=
+error.back=Назад
 //TODO Translate [Reference] 'Bad Version'
-error.badVersion=
+error.badVersion=Старая версия
 //[Reference] 'The Staxel.net server appears to be offline. Please try again later.'
-error.serverOffline=
+error.serverOffline=Staxel.net на тех.работах повторите попытку позже.
 //[Reference] 'SORRY!'
-error.sorry=
+error.sorry=ПРОСТИТЕ!
 //[Reference] 'Cancel'
-escapemenu.cancel=
+escapemenu.cancel=Отмена
 //[Reference] 'Are you sure you want to exit to desktop? Progress is saved automatically.'
-escapemenu.confirmExit=
+escapemenu.confirmExit=Вы точно хотите выйти на рабочий стол?
 //[Reference] 'Exit'
-escapemenu.exit=
+escapemenu.exit=Выход
 
 //[Reference] 'Back to Game'
-escapeMenu.back=
+escapeMenu.back=Вернуться к игре
 //[Reference] 'Character Designer'
-escapeMenu.characterDesigner=
+escapeMenu.characterDesigner=Персонаж
 //[Reference] 'Control Hints'
-escapeMenu.controlHints=
+escapeMenu.controlHints=Помощь
 //[Reference] 'Exit to Desktop'
-escapeMenu.desktopExit=
+escapeMenu.desktopExit=На рабочий стол
 //[Reference] 'Go to Main Menu'
-escapeMenu.mainMenu=
+escapeMenu.mainMenu=В главное меню
 //[Reference] 'Options'
-escapeMenu.options=
+escapeMenu.options=Опции
 //[Reference] 'Teleport Home'
-escapeMenu.returnHome=
+escapeMenu.returnHome=Домой
 
 //[Reference] 'It got away!'
-fishing.gotAway=
+fishing.gotAway=Неудача!
 //[Reference] 'Something is on the hook!'
-fishing.hooked=
+fishing.hooked=Что то на крючке!
 //[Reference] 'There are no fish here'
-fishing.noFish=
+fishing.noFish=Тут нету рыбы.
 //[Reference] 'GOT IT!'
-fishing.success1=
+fishing.success1==ЕСТЬ!
 //[Reference] 'SUCCESS!'
-fishing.success2=
+fishing.success2=УДАЧА!
 //[Reference] 'YES!'
-fishing.success3=
+fishing.success3=ДА!
 //[Reference] 'That spot is too far away'
-fishing.tooFarAway=
+fishing.tooFarAway=Слишком далеко
 
 //[Reference] 'Press {0-gameLogicalButton} to leave bed'
-hintText.bed=
+hintText.bed={0-gameLogicalButton} - слезть с кровати.
 //[Reference] 'Plants won't grow here'
-hintText.cantPlantHere=
+hintText.cantPlantHere=Здесь ничего не вырастет.
 //[Reference] 'Press {0-gameLogicalButton} to leave chair'
-hintText.chair=
+hintText.chair={0-gameLogicalButton} - слезть со стула
 //[Reference] 'Charge: {0:P1-chargeLevel}, Right Click or Left Trigger to Cancel'
-hintText.charge=
+hintText.charge=Заряд: {0:P1-chargeLevel}, Правая кнопка мыши что бы отменить
 //[Reference] '{0:P0-growth}'
 hintText.checkPlantGrowth={0:P0-growth}
 //[Reference] 'It's ready for harvesting'
-hintText.checkPlantGrowth.fruited=
+hintText.checkPlantGrowth.fruited=Готово для сбора.
 //[Reference] 'It's growing healthily'
-hintText.checkPlantGrowth.growing=
+hintText.checkPlantGrowth.growing=Растет здоровым.
 //[Reference] 'It's sleeping for now. It doesn't grow in this season.'
-hintText.checkPlantGrowth.outOfSeason=
+hintText.checkPlantGrowth.outOfSeason=Он спит, так как не растет в этом сезоне.
 //[Reference] 'It's sleeping for now. It doesn't grow during {0-season}'
-hintText.checkPlantGrowth.season=
+hintText.checkPlantGrowth.season=Он не спит, так как не растет {0-season}
 //[Reference] 'The seeds are growing'
-hintText.checkPlantGrowth.seed=
+hintText.checkPlantGrowth.seed=Семена растут
 //[Reference] 'It's not looking healthy; it needs water.'
-hintText.checkPlantGrowth.wilted=
+hintText.checkPlantGrowth.wilted=Выглядит плохо; надо полить.
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'It's heading to the big garden in the sky.'
-hintText.checkPlantGrowth.withered=
+hintText.checkPlantGrowth.withered=Отправился на большой сад в небесах.
 //[Reference] 'It's heading to the big garden in the sky. It can't grow during {0-season}.'
-hintText.checkPlantGrowth.witheredSeason=
+hintText.checkPlantGrowth.witheredSeason=Отправился на небеса. Не может расти {0-season}
 //[Reference] '{0-name}'
 hintText.inspectedEntity={0-name}
 //[Reference] 'Inventory Full'
-hintText.inventoryFull=
+hintText.inventoryFull=Инвентарь полон
 //[Reference] 'Need at least {0-count} slots in inventory'
-hintText.inventorySpaceNeeded=
+hintText.inventorySpaceNeeded=Нужно {0-count} слотов в инвентаре.
 //[Reference] 'Kind: {0-itemCode}'
-hintText.kind=
+hintText.kind=Вид: {0-itemCode}
 //[Reference] 'The light will turn on after a few seconds'
-hintText.lightTurnOn=
+hintText.lightTurnOn=Свет включится через несколько секунд
 //[Reference] 'That's not a bug!'
-hintText.needBug=
+hintText.needBug=Это не жук!
 //[Reference] 'Try placing on {0-tile}'
-hintText.needTile=
+hintText.needTile=Поставьте на {0-tile}
 //[Reference] 'Try planting on tilled soil'
-hintText.needTilledTile=
+hintText.needTilledTile=Нужна вспаханная почва
 //[Reference] 'This plant needs more space to grow'
-hintText.notEnoughSpaceToPlant=
+hintText.notEnoughSpaceToPlant=Требует больше места для роста
 //[Reference] 'Need at least 1 slot in inventory'
-hintText.oneSlotNeeded=
+hintText.oneSlotNeeded=Нужен минимум 1 слот в инвентаре
 //[Reference] 'You already know this recipe'
-hintText.recipeKnown=
+hintText.recipeKnown=Вы уже это знаете
 //[Reference] 'You successfully learnt the recipe for {0-recipe}!'
-hintText.recipeLearnt=
+hintText.recipeLearnt=Вы успешно выучили {0-recipe}!
 //[Reference] 'There's nothing left to steal... for today.'
-hintText.thiefLimit=
+hintText.thiefLimit=Нечего красть... сегодня.
 //[Reference] 'You are no longer a thief'
-hintText.thiefReset=
+hintText.thiefReset=Вы больше не вор
 //[Reference] 'You stole {0-amount} Petals! {1-theft}'
-hintText.thiefSteal=
+hintText.thiefSteal=Вы украли {0-amount} монет! {1-theft}
 //[Reference] 'Thief! You may be forgiven in time.'
-hintText.thiefThief=
+hintText.thiefThief=Вор! Ты можешь быть прощен.
 //[Reference] 'Stealing has consequences.'
-hintText.thiefWarning=
+hintText.thiefWarning=Воровство имеет последствия.
 
 //[Reference] 'true'
 language.validated=true
 
 //[Reference] 'Downloading bundle assets'
-loading.bundles=
+loading.bundles=Скачивание пакетов
 //[Reference] 'Skip'
-loading.skip=
+loading.skip=Пропустить
 //[Reference] 'Loot from'
-looting.loot=
+looting.loot=Взять
 //[Reference] 'Steal from'
-looting.stealFrom=
+looting.stealFrom=Украсть
 
 //[Reference] 'Back to main menu'
-multiplayerMenu.back=
+multiplayerMenu.back=В главное меню
 //[Reference] 'Join Server'
-multiplayerMenu.joinServer=
+multiplayerMenu.joinServer=Зайти
 //[Reference] 'Server IP:'
-multiplayerMenu.serverIP=
+multiplayerMenu.serverIP=Сервер IP:
 //[Reference] 'Server List'
-multiplayerMenu.serverList=
+multiplayerMenu.serverList=Список
 //[Reference] 'Server Password (optional):'
-multiplayerMenu.serverPassword=
+multiplayerMenu.serverPassword=Пароль (опционально):
 //[Reference] 'The festival has ended.'
-notifications.festivalEnded=
+notifications.festivalEnded=Фестиваль окончен.
+
 //[Reference] 'It looks like something is happening in the village!'
-notifications.festivalStarted=
+notifications.festivalStarted=Похоже в городе что-то происходит!
 
 //[Reference] 'Options'
-options=
+options=Опции
 //[Reference] 'Admin'
-options.admin=
+options.admin=Админ
 //[Reference] 'Debug'
-options.admin.debug=
+options.admin.debug=Отладка
 
 //[Reference] 'Camera Mode (ESC to exit)'
-options.admin.debug.cameraMode=
+options.admin.debug.cameraMode=Режим камеры
 //[Reference] 'Creative Mode'
-options.admin.debug.creativeMode=
+options.admin.debug.creativeMode=Песочница
 //[Reference] 'Enable Debug Keys'
-options.admin.debug.EnableDebugKeys=
+options.admin.debug.EnableDebugKeys=Включить Отладку
 //[Reference] 'Fly Mode'
-options.admin.debug.flyMode=
+options.admin.debug.flyMode=Летать
 
 //[Reference] 'Increased View Range'
-options.admin.debug.IncreasedViewRange=
+options.admin.debug.IncreasedViewRange=Большое поле зрения
 //[Reference] 'Make a crashlog'
-options.admin.debug.makeCrashlog=
+options.admin.debug.makeCrashlog=Сообщить об ошибке
 //[Reference] 'No Clip Mode'
-options.admin.debug.noClipMode=
+options.admin.debug.noClipMode=No Clip Режим
 //[Reference] 'Show name tags'
-options.admin.debug.showNames=
+options.admin.debug.showNames=Показывать ники
 //[Reference] 'Show Particles'
-options.admin.debug.ShowParticles=
+options.admin.debug.ShowParticles=Частицы
 //[Reference] 'Wireframe Mode'
-options.admin.debug.wireframeMode=
+options.admin.debug.wireframeMode=Наблюдать
 //[Reference] 'Adminy stuff'
-options.admin.description=
+options.admin.description=Штуки Админа
 //[Reference] 'Audio'
-options.audio=
+options.audio=Аудио
 //[Reference] 'Set audio options here'
-options.audio.description=
+options.audio.description=Настройки аудио
 //[Reference] 'Auto'
-options.auto=
+options.auto=Авто
 //[Reference] '(X)'
 options.backButton=（X）
 //[Reference] 'Gameplay'
-options.gameplay=
+options.gameplay=Геймплей
 //[Reference] 'Mute Error Sounds'
-options.gameplay.audio.muteErrorSounds=
+options.gameplay.audio.muteErrorSounds=Убрать звук ошибки
 //[Reference] 'Controller'
-options.gameplay.controller=
+options.gameplay.controller=Геймпад
 //[Reference] 'Enable Controller Input'
-options.gameplay.controller.enableController=
+options.gameplay.controller.enableController=Включить геймпад
 //[Reference] 'Flip Left Y Axis'
-options.gameplay.controller.flipLeftY=
+options.gameplay.controller.flipLeftY=Инверсия Y Axis
 //[Reference] 'Flip Right Y Axis'
-options.gameplay.controller.flipRightY=
+options.gameplay.controller.flipRightY=Инверсия Y Axis
 //[Reference] 'Left Thumb Curve:'
-options.gameplay.controller.leftThumbCurve=
+options.gameplay.controller.leftThumbCurve=Кривая лев. стика:
 //[Reference] 'Left Thumb Deadzone:'
-options.gameplay.controller.leftThumbDeadzone=
+options.gameplay.controller.leftThumbDeadzone=Мертвая зона лев. стика:
 //[Reference] 'Right Thumb Curve:'
-options.gameplay.controller.rightThumbCurve=
+options.gameplay.controller.rightThumbCurve=Кривая прав. стика:
 //[Reference] 'Right Thumb Deadzone:'
-options.gameplay.controller.rightThumbDeadzone=
+options.gameplay.controller.rightThumbDeadzone=Мертвая зона прав. стика:
 //[Reference] 'Right Thumb Velocity:'
-options.gameplay.controller.rightThumbVelocity=
+options.gameplay.controller.rightThumbVelocity=Скорость прав. стика:
 //[Reference] 'Set gameplay options here'
-options.gameplay.description=
+options.gameplay.description=Параметры геймплея
 //[Reference] 'Input'
-options.gameplay.input=
+options.gameplay.input=Вход
 //[Reference] 'Enable Repeating'
-options.gameplay.input.enableRepeat=
+options.gameplay.input.enableRepeat=Переподключение
 //[Reference] 'Keyboard'
-options.gameplay.keyboard=
+options.gameplay.keyboard=Клавиатура
 //[Reference] 'Mouse'
-options.gameplay.mouse=
+options.gameplay.mouse=Мышь
 //[Reference] 'Flip Wheel Direction'
-options.gameplay.mouse.flipWheelDirection=
+options.gameplay.mouse.flipWheelDirection=Направления колесика
 //[Reference] 'Flip Y Axis'
-options.gameplay.mouse.flipY=
+options.gameplay.mouse.flipY=Y Axis
 //[Reference] 'Mouse Velocity:'
-options.gameplay.mouse.mouseVelocity=
+options.gameplay.mouse.mouseVelocity=Скорость мыши:
 //[Reference] 'Other'
-options.gameplay.other=
+options.gameplay.other=Другое
 //[Reference] 'Active Achievement Tracker'
-options.gameplay.other.activeAchievement=
+options.gameplay.other.activeAchievement=Трекер достижений
 //[Reference] 'Chat Timestamps'
-options.gameplay.other.chatTimestamps=
+options.gameplay.other.chatTimestamps=Время в чате
 //[Reference] 'Left Handed Mode'
-options.gameplay.other.leftHandedMode=
+options.gameplay.other.leftHandedMode=Режим левши
 //[Reference] 'Scale UI with resolution'
-options.gameplay.other.ScaleUIWithResolution=
+options.gameplay.other.ScaleUIWithResolution=Масштабирование UI
 
 //[Reference] 'Show Clock'
-options.gameplay.other.showClock=
+options.gameplay.other.showClock=Часы
 //[Reference] 'Show Console'
-options.gameplay.other.ShowConsole=
+options.gameplay.other.ShowConsole=Консоль
 //[Reference] 'Crafting Keyword Tags'
-options.gameplay.other.showCraftingKeywordTags=
+options.gameplay.other.showCraftingKeywordTags=Метки крафта
 //[Reference] 'Don't stretch UI'
-options.gameplay.other.StepWiseUIScale=
+options.gameplay.other.StepWiseUIScale=Не растягивать UI
 //[Reference] 'Prevent NPC Staring'
-options.gameplay.other.StopNPCStaring=
+options.gameplay.other.StopNPCStaring=NPC наблюдают
 //[Reference] 'UI'
-options.gameplay.ui=
+options.gameplay.ui=UI
 //[Reference] 'Fullscreen Resolution:'
-options.gameplay.ui.FullScreenResolution=
+options.gameplay.ui.FullScreenResolution=Разрешение:
 //[Reference] 'UI Scale:'
-options.gameplay.ui.ManualUIScale=
+options.gameplay.ui.ManualUIScale=Размер UI:
 //[Reference] 'General'
-options.general=
+options.general=Общее
 //[Reference] 'Audio'
-options.general.audio=
+options.general.audio=Аудио
 //[Reference] 'Ambience:'
-options.general.audio.ambience=
+options.general.audio.ambience=Атмосфера:
 //[Reference] 'Master:'
-options.general.audio.master=
+options.general.audio.master=Общее:
 //[Reference] 'Music:'
-options.general.audio.music=
+options.general.audio.music=Музыка:
 //[Reference] 'Sound:'
-options.general.audio.sound=
+options.general.audio.sound=Звуки:
 //[Reference] 'Graphics'
-options.general.graphics=
+options.general.graphics=Графика
 //[Reference] 'Advanced'
-options.general.graphics.advanced=
+options.general.graphics.advanced=Больше
 
 //[Reference] 'Auto detect graphics settings'
-options.general.graphics.autoDetect=
+options.general.graphics.autoDetect=Автоопределение графики
 //[Reference] 'Bloom'
-options.general.graphics.bloom=
+options.general.graphics.bloom=Блум
 //[Reference] 'Borderless Window'
-options.general.graphics.borderless=
+options.general.graphics.borderless=Режим без рамки
 //[Reference] 'Camera Distance:'
-options.general.graphics.cameraDistance=
+options.general.graphics.cameraDistance=Дистанция камеры:
 //[Reference] 'Field Of View:'
-options.general.graphics.fieldOfView=
+options.general.graphics.fieldOfView=Поле зрения:
 //[Reference] 'Fullscreen'
-options.general.graphics.fullscreen=
+options.general.graphics.fullscreen=Полный экран
 //[Reference] 'Half Resolution'
-options.general.graphics.halfResolution=
+options.general.graphics.halfResolution=Меньшее разрешение
 //[Reference] 'High'
-options.general.graphics.high=
+options.general.graphics.high=Ультра
 //[Reference] 'Increased View Range'
-options.general.graphics.increasedViewRange=
+options.general.graphics.increasedViewRange=Увелич. дальность
 //[Reference] 'Render Distant Terrain'
-options.general.graphics.lod=
+options.general.graphics.lod=Дальний Рендер
 //[Reference] 'Low'
-options.general.graphics.low=
+options.general.graphics.low=Средняя
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Median Filter (Requires Bloom)'
-options.general.graphics.medianFilter=
+options.general.graphics.medianFilter=Фильтр медианы (Требует Блум)
 //[Reference] 'Medium'
-options.general.graphics.medium=
+options.general.graphics.medium=Высокая
 
 //[Reference] 'Multi Sampling'
-options.general.graphics.MultiSampling=
+options.general.graphics.MultiSampling=Мульти Сэмплинг
 //[Reference] 'Reduced View Range'
-options.general.graphics.reducedViewRange=
+options.general.graphics.reducedViewRange=Меньше радиус обзора
 //[Reference] 'Shadows'
-options.general.graphics.shadows=
+options.general.graphics.shadows=Тени
 //[Reference] 'Show Grid Cursor'
-options.general.graphics.showGridCursor=
+options.general.graphics.showGridCursor=Сетка курсора
 //[Reference] 'Super Low'
-options.general.graphics.superLow=
+options.general.graphics.superLow=Низкая
 //[Reference] 'Super Sampling'
-options.general.graphics.superSampling=
+options.general.graphics.superSampling=Супер Сэмплинг
 //[Reference] 'Third Person'
-options.general.graphics.thirdPerson=
+options.general.graphics.thirdPerson=т третьего лица
 //[Reference] 'Transparent Player Avatar'
-options.general.graphics.transparentThirdPerson=
+options.general.graphics.transparentThirdPerson=Прозрачный аватар
 //[Reference] 'Ultra'
-options.general.graphics.ultra=
+options.general.graphics.ultra=Ультра
 //[Reference] 'Prevent Indoor Weather'
-options.general.graphics.WeatherParticles=
+options.general.graphics.WeatherParticles=Убрать погоду в доме
 //[Reference] 'Language'
-options.general.language=
+options.general.language=Язык
 //[Reference] 'Misc'
-options.misc=
+options.misc=Разное
 //[Reference] 'Reset'
-options.misc.reset=
+options.misc.reset=Сброс
 //[Reference] 'Reset Current Changes'
-options.misc.resetCurrent=
+options.misc.resetCurrent=Сбросить текущие настройки
 //[Reference] 'Reset to Default Settings'
-options.misc.resetToDefault=
+options.misc.resetToDefault=Вернуть начальные настройки
 //[Reference] 'Network'
-options.network=
+options.network=Сеть
 //[Reference] 'Preferences'
-options.network.preferences=
+options.network.preferences=Персональные
 //[Reference] 'Video'
-options.video=
+options.video=Видео
 //[Reference] 'Set video options here'
-options.video.description=
+options.video.description=Настройки видео
 //[Reference] 'Ban'
-playerList.ban=
+playerList.ban=Бан
 //[Reference] 'Kick'
-playerList.kick=
+playerList.kick=Кик
 //[Reference] 'Mute'
-playerList.mute=
+playerList.mute=Мут
 
 //[Reference] 'Players Online:'
-playerList.playerCount=
+playerList.playerCount=Игроки онлайн:
 //[Reference] 'Teleport To'
-playerList.teleportTo=
+playerList.teleportTo=Телепорт
 
 //[Reference] 'Desserts'
-recipeBook.grouping.desserts=
+recipeBook.grouping.desserts=Десерт
 //[Reference] 'Fencing'
-recipeBook.grouping.fencing=
+recipeBook.grouping.fencing=Забор
 //[Reference] 'Flooring'
-recipeBook.grouping.flooring=
+recipeBook.grouping.flooring=Пол
 //[Reference] 'Main Courses'
-recipeBook.grouping.mainCourses=
+recipeBook.grouping.mainCourses=Основное блюдо
 //[Reference] 'Roofing'
-recipeBook.grouping.roofing=
+recipeBook.grouping.roofing=Покрытие
 //[Reference] 'Starters'
-recipeBook.grouping.starters=
+recipeBook.grouping.starters=Закуска
 //[Reference] 'stone'
-recipeBook.grouping.stone=
+recipeBook.grouping.stone=Камень
 //[Reference] 'Walling'
-recipeBook.grouping.walling=
+recipeBook.grouping.walling=Стена
 //[Reference] 'wood'
-recipeBook.grouping.wood=
+recipeBook.grouping.wood=Дерево
 //[Reference] 'Ingredients'
-recipeBook.ingredients=
+recipeBook.ingredients=Ингридиенты
 //[Reference] 'No recipes'
-recipeBook.noRecipes=
+recipeBook.noRecipes=Нет рецептов
 //[Reference] 'Process'
-recipeBook.process=
+recipeBook.process=Процесс
 
 //[Reference] 'Accept'
-Renamer.accept=
+Renamer.accept=Принять
 //[Reference] 'You have been muted for {0-time} minutes.'
-server.notifyPlayerMuted=
+server.notifyPlayerMuted=Вам дали мут на {0-time} минут.
 
 //[Reference] '{0-player} has joined the server'
-server.playerJoin=
+server.playerJoin={0-player} присоеденился
 //[Reference] '{0-player} has left the server'
-server.playerLeave=
+server.playerLeave={0-player} Ушел
 //[Reference] 'You are currently muted and your messages will not be received by other players.'
-server.youAreMuted=
+server.youAreMuted=Вам дали мут и вы не можете общаться с другими игроками.
 //[Reference] 'You have been unmuted.'
-server.youAreUnmuted=
+server.youAreUnmuted=У вас убрали мут.
 
 //[Reference] 'Back to main menu'
-serverBrowser.back=
+serverBrowser.back=Главное меню
 //[Reference] '(check your internet connection)'
-serverBrowser.checkConnection=
+serverBrowser.checkConnection=(Проверьте интернет соединение)
 //TODO Translate [Reference] 'Filter:'
-serverBrowser.filter=
+serverBrowser.filter=Фильтр:
 //[Reference] 'No servers found'
-serverBrowser.noServersFound=
+serverBrowser.noServersFound=Нет серверов
 //[Reference] 'Online:'
-serverBrowser.online=
+serverBrowser.online=Онлайн:
 //[Reference] 'Server name:'
-serverBrowser.serverName=
+serverBrowser.serverName=Название:
 //[Reference] 'Master server unreachable'
-serverBrowser.unreachable=
+serverBrowser.unreachable=Сервера не работают
 //[Reference] 'Cancel all'
-shippingCatalogue.cancelAll=
+shippingCatalogue.cancelAll=Отменить все
 //[Reference] 'Expedite'
-shippingCatalogue.expedite=
+shippingCatalogue.expedite=Ускорение
 //[Reference] 'Order now'
-shippingCatalogue.order=
+shippingCatalogue.order=Заказать сейчас
 //[Reference] 'You have been refunded {0-amount} petals'
-shippingCatalogue.refund=
+shippingCatalogue.refund=Вам было возвращено {0-amount} монет
 //[Reference] 'Check and cancel pending orders here'
-shippingCatalogue.viewOrders.description=
+shippingCatalogue.viewOrders.description=Проверьте и отмените предложения.
 //[Reference] 'You have claimed this shipping station!'
-shippingDock.Claimed=
+shippingDock.Claimed=Вы утвердили станцию доставки!
 //[Reference] 'Copy from'
-singleplayer.baseOff=
+singleplayer.baseOff=Копировать
 //[Reference] 'Don't copy'
-singleplayer.baseOffCancel=
+singleplayer.baseOffCancel=Не копировать
 //[Reference] 'Cancel'
-singleplayer.cancel=
+singleplayer.cancel=Отмена
 //[Reference] 'Are you certain you want to delete this world?'
-singleplayer.confirmDelete=
+singleplayer.confirmDelete=Вы уверены что хотите удалить мир?
 //[Reference] 'Copying world...'
-singleplayer.copyingWorld=
+singleplayer.copyingWorld=Копировать мир...
 //[Reference] 'Creative'
-singleplayer.creative=
+singleplayer.creative=Песочница
 //[Reference] 'Creative Mode'
-singleplayer.creativeMode=
+singleplayer.creativeMode=Песочница
 //[Reference] 'Creative Mode On'
-singleplayer.creativeModeEnabled=
+singleplayer.creativeModeEnabled=Песочница Вкл
 //[Reference] 'My World'
-singleplayer.defaultWorldName=My World
+singleplayer.defaultWorldName=Название
 //[Reference] 'Delete'
-singleplayer.delete=
+singleplayer.delete=Удалить
 //[Reference] 'Failed to delete world'
-singleplayer.failedToDeleteWorld=
+singleplayer.failedToDeleteWorld=Ошибка удаления
 //[Reference] 'Launch'
-singleplayer.launch=
+singleplayer.launch=Запуск
 //[Reference] 'Storage with this name already exists'
-singleplayer.nameAlreadyExists=
+singleplayer.nameAlreadyExists=Имя уже существует
 //[Reference] 'Name to short (min 3 characters)'
-singleplayer.nameTooShort=
+singleplayer.nameTooShort=Имя (мин 3 символа)
 //[Reference] 'New World'
-singleplayer.newWorld=
+singleplayer.newWorld=Новый мир
 //[Reference] 'Name'
-singleplayer.serverName=
+singleplayer.serverName=Имя
 
 //[Reference] 'Single Player'
-singleplayer.singleplayer=
+singleplayer.singleplayer=Одиночная игра
 //[Reference] 'Storage is in use, lockfile detected.'
-singleplayer.storageLockFile=
+singleplayer.storageLockFile=Сервер используется, файл не обнаружен
 //[Reference] 'Village'
-singleplayer.village=
+singleplayer.village=Город
 //[Reference] 'Controller is available'
-startMenu.controllerReady=
+startMenu.controllerReady=Геймпад подключен
 
 //[Reference] 'Credits'
-startMenu.credits=
+startMenu.credits=Авторы
 //[Reference] 'Exit'
-startMenu.exit=
+startMenu.exit=Выход
 //[Reference] 'Multi Player'
-startMenu.multiPlayer=
+startMenu.multiPlayer=Мультиплеер
 //[Reference] 'Options'
-startMenu.options=
+startMenu.options=Опции
 //[Reference] 'Server List'
-startMenu.serverList=
+startMenu.serverList=Список
 //[Reference] 'Single Player'
-startMenu.singlePlayer=
-staxel.accessories.characters.accessories.animalhats.FrogHat_paletted.description=
+startMenu.singlePlayer=Одиночная игра
+staxel.accessories.characters.accessories.animalhats.FrogHat_paletted.description=Ква ква
 //TODO Translate [Reference] 'Frog Hat'
-staxel.accessories.characters.accessories.animalhats.FrogHat_paletted.name=
-staxel.accessories.characters.accessories.festival.FlowerCrown.description=
+staxel.accessories.characters.accessories.animalhats.FrogHat_paletted.name=Лягушка
+staxel.accessories.characters.accessories.festival.FlowerCrown.description=На вашей голове цветочки
 //[Reference] 'Flower Crown'
-staxel.accessories.characters.accessories.festival.FlowerCrown.name=
-staxel.accessories.characters.accessories.festival.KabutoHelmet.description=
+staxel.accessories.characters.accessories.festival.FlowerCrown.name=Цветочная Корона
+staxel.accessories.characters.accessories.festival.KabutoHelmet.description=Кабуто как Как будто
 //[Reference] 'Kabuto Helmet'
-staxel.accessories.characters.accessories.festival.KabutoHelmet.name=
-staxel.accessories.characters.accessories.halloween.PumpkingHat.description=
+staxel.accessories.characters.accessories.festival.KabutoHelmet.name=Шлем Кабуто
+staxel.accessories.characters.accessories.halloween.PumpkingHat.description=Тыква но живая
 
 //[Reference] 'Pumpking Hat'
-staxel.accessories.characters.accessories.halloween.PumpkingHat.name=
-staxel.accessories.characters.accessories.halloween.pumpkinhat.PumpkinHat.description=
+staxel.accessories.characters.accessories.halloween.PumpkingHat.name=Король тыкв
+staxel.accessories.characters.accessories.halloween.pumpkinhat.PumpkinHat.description=Ваша голова как свеча
 
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Pumpkin Hat'
-staxel.accessories.characters.accessories.halloween.pumpkinhat.PumpkinHat.name=
-staxel.accessories.characters.accessories.hats.christmas.ReindeerAntlers.description=
+staxel.accessories.characters.accessories.halloween.pumpkinhat.PumpkinHat.name=Шлем тыква
+staxel.accessories.characters.accessories.hats.christmas.ReindeerAntlers.description=Теперь ты олень
 //[Reference] 'Reindeer Antlers'
-staxel.accessories.characters.accessories.hats.christmas.ReindeerAntlers.name=
-staxel.accessories.characters.accessories.hats.christmas.SantaHat.description=
+staxel.accessories.characters.accessories.hats.christmas.ReindeerAntlers.name=Рога оленя
+staxel.accessories.characters.accessories.hats.christmas.SantaHat.description=Хо-хо-хо
 //[Reference] 'Santa Hat'
-staxel.accessories.characters.accessories.hats.christmas.SantaHat.name=
-staxel.accessories.characters.accessories.hats.pirate.Bandana.description=
+staxel.accessories.characters.accessories.hats.christmas.SantaHat.name=Шапка санты
+staxel.accessories.characters.accessories.hats.pirate.Bandana.description=Да ты крут
 //[Reference] 'Bandana'
-staxel.accessories.characters.accessories.hats.pirate.Bandana.name=
-staxel.accessories.characters.accessories.hats.pirate.EyePatch.description=
+staxel.accessories.characters.accessories.hats.pirate.Bandana.name=Бандана
+staxel.accessories.characters.accessories.hats.pirate.EyePatch.description=Вилкой в глаз или... оу
 //[Reference] 'EyePatch'
-staxel.accessories.characters.accessories.hats.pirate.EyePatch.name=
-staxel.accessories.characters.accessories.hats.pirate.PirateHat.description=
+staxel.accessories.characters.accessories.hats.pirate.EyePatch.name=Повязка
+staxel.accessories.characters.accessories.hats.pirate.PirateHat.description=И бутылка рома
 //[Reference] 'PirateHat'
-staxel.accessories.characters.accessories.hats.pirate.PirateHat.name=
-staxel.accessories.fullBodyOutfits.villager.Aliza.description=
+staxel.accessories.characters.accessories.hats.pirate.PirateHat.name=Шапка пирата
+staxel.accessories.fullBodyOutfits.villager.Aliza.description=Элиза
 //[Reference] 'Aliza'
-staxel.accessories.fullBodyOutfits.villager.Aliza.name=
-staxel.accessories.fullBodyOutfits.villager.Cecile.description=
+staxel.accessories.fullBodyOutfits.villager.Aliza.name=Элиза
+staxel.accessories.fullBodyOutfits.villager.Cecile.description=Сисиль
 //[Reference] 'Cecile'
-staxel.accessories.fullBodyOutfits.villager.Cecile.name=
-staxel.accessories.fullBodyOutfits.villager.Emilia.description=
+staxel.accessories.fullBodyOutfits.villager.Cecile.name=Сисиль
+staxel.accessories.fullBodyOutfits.villager.Emilia.description=Эмилия
 //[Reference] 'Emilia'
-staxel.accessories.fullBodyOutfits.villager.Emilia.name=
-staxel.accessories.fullBodyOutfits.villager.Eris.description=
+staxel.accessories.fullBodyOutfits.villager.Emilia.name=Эмилия
+staxel.accessories.fullBodyOutfits.villager.Eris.description=Эрис
 //[Reference] 'Eris'
-staxel.accessories.fullBodyOutfits.villager.Eris.name=
-staxel.accessories.fullBodyOutfits.villager.festival.Ami.description=
+staxel.accessories.fullBodyOutfits.villager.Eris.name=Эрис
+staxel.accessories.fullBodyOutfits.villager.festival.Ami.description=Эми
 //[Reference] 'Ami'
-staxel.accessories.fullBodyOutfits.villager.festival.Ami.name=
-staxel.accessories.fullBodyOutfits.villager.festival.Caren.description=
+staxel.accessories.fullBodyOutfits.villager.festival.Ami.name=Эми
+staxel.accessories.fullBodyOutfits.villager.festival.Caren.description=Карен
 //[Reference] 'Caren'
-staxel.accessories.fullBodyOutfits.villager.festival.Caren.name=
-staxel.accessories.fullBodyOutfits.villager.festival.DefinitelyNotRiah.description=
+staxel.accessories.fullBodyOutfits.villager.festival.Caren.name=Карен
+staxel.accessories.fullBodyOutfits.villager.festival.DefinitelyNotRiah.description=Определенно не Рая
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Definitely Not Riah'
-staxel.accessories.fullBodyOutfits.villager.festival.DefinitelyNotRiah.name=
-staxel.accessories.fullBodyOutfits.villager.festival.EmiliaFeyMasquerade.description=
+staxel.accessories.fullBodyOutfits.villager.festival.DefinitelyNotRiah.name=Определенно не Рая
+staxel.accessories.fullBodyOutfits.villager.festival.EmiliaFeyMasquerade.description=Эмилия Фея
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Emilia Fey Masquerade'
-staxel.accessories.fullBodyOutfits.villager.festival.EmiliaFeyMasquerade.name=
-staxel.accessories.fullBodyOutfits.villager.festival.FeyQueen.description=
+staxel.accessories.fullBodyOutfits.villager.festival.EmiliaFeyMasquerade.name=Эмилия Фея
+staxel.accessories.fullBodyOutfits.villager.festival.FeyQueen.description=Королева фей
 //[Reference] 'Fey Queen'
-staxel.accessories.fullBodyOutfits.villager.festival.FeyQueen.name=
-staxel.accessories.fullBodyOutfits.villager.festival.NotRiah.description=
+staxel.accessories.fullBodyOutfits.villager.festival.FeyQueen.name=Королева фей
+staxel.accessories.fullBodyOutfits.villager.festival.NotRiah.description=Не Рая
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Not Riah'
-staxel.accessories.fullBodyOutfits.villager.festival.NotRiah.name=
-staxel.accessories.fullBodyOutfits.villager.Jamie.description=
+staxel.accessories.fullBodyOutfits.villager.festival.NotRiah.name=Не Рая
+staxel.accessories.fullBodyOutfits.villager.Jamie.description=Джеми
 //[Reference] 'Jamie'
-staxel.accessories.fullBodyOutfits.villager.Jamie.name=
-staxel.accessories.fullBodyOutfits.villager.Leif.description=
+staxel.accessories.fullBodyOutfits.villager.Jamie.name=Джеми
+staxel.accessories.fullBodyOutfits.villager.Leif.description=Лейф
 //[Reference] 'Leif'
-staxel.accessories.fullBodyOutfits.villager.Leif.name=
-staxel.accessories.fullBodyOutfits.villager.MayorMax.description=
+staxel.accessories.fullBodyOutfits.villager.Leif.name=Лейф
+staxel.accessories.fullBodyOutfits.villager.MayorMax.description=Мэр Макс
 //[Reference] 'Mayor Max'
-staxel.accessories.fullBodyOutfits.villager.MayorMax.name=
-staxel.accessories.fullBodyOutfits.villager.Riah.description=
+staxel.accessories.fullBodyOutfits.villager.MayorMax.name=Мэр Макс
+staxel.accessories.fullBodyOutfits.villager.Riah.description=Рая
 //[Reference] 'Riah'
-staxel.accessories.fullBodyOutfits.villager.Riah.name=
-staxel.accessories.fullBodyOutfits.villager.Rosemary.description=
+staxel.accessories.fullBodyOutfits.villager.Riah.name=Рая
+staxel.accessories.fullBodyOutfits.villager.Rosemary.description=Розмари
 //[Reference] 'Rosemary'
-staxel.accessories.fullBodyOutfits.villager.Rosemary.name=
-staxel.accessories.fullBodyOutfits.villager.Rowan.description=
+staxel.accessories.fullBodyOutfits.villager.Rosemary.name=Розмари
+staxel.accessories.fullBodyOutfits.villager.Rowan.description=Рован
 //[Reference] 'Rowan'
-staxel.accessories.fullBodyOutfits.villager.Rowan.name=
-staxel.accessories.helmets.mecha.Mecha_Classic.description=
+staxel.accessories.fullBodyOutfits.villager.Rowan.name=Рован
+staxel.accessories.helmets.mecha.Mecha_Classic.description=Класика жанра
 
 //[Reference] 'Mecha_Classic'
-staxel.accessories.helmets.mecha.Mecha_Classic.name=
-staxel.accessories.helmets.mecha.Mecha_EG4D.description=
+staxel.accessories.helmets.mecha.Mecha_Classic.name=Меха_Класик
+staxel.accessories.helmets.mecha.Mecha_EG4D.description=Яйцо для мертвых?
 //[Reference] 'Mecha_EG4D'
-staxel.accessories.helmets.mecha.Mecha_EG4D.name=
-staxel.accessories.helmets.mecha.Mecha_L0V3.description=
+staxel.accessories.helmets.mecha.Mecha_EG4D.name=Меха_EG4D
+staxel.accessories.helmets.mecha.Mecha_L0V3.description=Любовь
 //[Reference] 'Mecha_L0V3'
-staxel.accessories.helmets.mecha.Mecha_L0V3.name=
-staxel.accessories.helmets.mecha.Mecha_P.description=
+staxel.accessories.helmets.mecha.Mecha_L0V3.name=Меха_L0V3
+staxel.accessories.helmets.mecha.Mecha_P.description=Чесно не знаю что это
 //[Reference] 'Mecha_P'
-staxel.accessories.helmets.mecha.Mecha_P.name=
-staxel.accessories.helmets.mecha.Mecha_Red.description=
+staxel.accessories.helmets.mecha.Mecha_P.name=Меха_P
+staxel.accessories.helmets.mecha.Mecha_Red.description=Красная
 //[Reference] 'Mecha_Red'
-staxel.accessories.helmets.mecha.Mecha_Red.name=
-staxel.accessories.helmets.mecha.Mecha_XYellow.description=
+staxel.accessories.helmets.mecha.Mecha_Red.name=Меха_Красн
+staxel.accessories.helmets.mecha.Mecha_XYellow.description=ХЖелтая
 //[Reference] 'Mecha_XYellow'
-staxel.accessories.helmets.mecha.Mecha_XYellow.name=
-staxel.accessories.shirts.colouredhoodie.ColouredHoodie.description=
+staxel.accessories.helmets.mecha.Mecha_XYellow.name=Меха_ХЖелт
+staxel.accessories.shirts.colouredhoodie.ColouredHoodie.description=Цветная
 //[Reference] 'Coloured Hoodie'
-staxel.accessories.shirts.colouredhoodie.ColouredHoodie.name=
-staxel.accessories.shirts.darkhoodie.DarkHoodie.description=
+staxel.accessories.shirts.colouredhoodie.ColouredHoodie.name=Цветн толстовка
+staxel.accessories.shirts.darkhoodie.DarkHoodie.description=Черн толстовка
 //[Reference] 'Dark Hoodie'
-staxel.accessories.shirts.darkhoodie.DarkHoodie.name=
+staxel.accessories.shirts.darkhoodie.DarkHoodie.name=Черн толстовка
 staxel.accessories.shirts.ghostshirts.GhostShirt.description=
 //[Reference] 'Ghost Shirt'
-staxel.accessories.shirts.ghostshirts.GhostShirt.name=
-staxel.accessories.shirts.stripedshirts.StripedShirt.description=
+staxel.accessories.shirts.ghostshirts.GhostShirt.name=Рубаха призрака
+staxel.accessories.shirts.stripedshirts.StripedShirt.description=Тельняшка
 //[Reference] 'StripedShirt'
-staxel.accessories.shirts.stripedshirts.StripedShirt.name=
-staxel.accessories.shirts.tartanshirts.TartanShirt.description=
+staxel.accessories.shirts.stripedshirts.StripedShirt.name=Тельняшка
+staxel.accessories.shirts.tartanshirts.TartanShirt.description=Клетчатая рубаха
 //[Reference] 'Tartan Shirt'
-staxel.accessories.shirts.tartanshirts.TartanShirt.name=
-staxel.accessories.shorts.shortjeanspaletted.description=
+staxel.accessories.shirts.tartanshirts.TartanShirt.name=Клетчатая рубаха
+staxel.accessories.shorts.shortjeanspaletted.description=Короткие джинсы
 //[Reference] 'shortjeanspaletted'
-staxel.accessories.shorts.shortjeanspaletted.name=
+staxel.accessories.shorts.shortjeanspaletted.name=Короткие джинсы
 
 //[Reference] 'None'
-staxel.accessory.none=
+staxel.accessory.none=Ничего
 //[Reference] 'Get your first pet!'
-staxel.achievement.GetPet.description=
+staxel.achievement.GetPet.description=Твой первый питомец!
 //[Reference] 'Get a pet'
-staxel.achievement.GetPet.name=
+staxel.achievement.GetPet.name=Получить питомца
 //[Reference] 'Get your first pet!'
-staxel.achievements.getPet=
+staxel.achievements.getPet=Твой первый питомец!
 
 //[Reference] 'Ouch! The bees need to be calmed down'
-staxel.apiary.calmWorkers=
+staxel.apiary.calmWorkers=Оуч! Пчелам нужно успокоиться
 //[Reference] 'This apiary has enough bees'
-staxel.apiary.fullWorkers=
+staxel.apiary.fullWorkers=Наполненная пасека
 //[Reference] 'This apiary already has a queen'
-staxel.apiary.hasQueen=
+staxel.apiary.hasQueen=Готово для королевы
 //[Reference] 'Need to put the honey in a jar'
-staxel.apiary.needsCollector=
+staxel.apiary.needsCollector=Нужно наполнить банку медом
 //[Reference] 'This apiary needs a queen bee'
-staxel.apiary.needsQueen=
+staxel.apiary.needsQueen=Пасеке нужна королева
 //[Reference] 'This apiary needs bees'
-staxel.apiary.needsWorkers=
+staxel.apiary.needsWorkers=Пасеке нужны пчелы
 //[Reference] 'Honey is available and the bees are calm'
-staxel.apiary.state.collection=
+staxel.apiary.state.collection=Мед готов, пчелы спокойны
 //[Reference] 'This apiary is empty'
-staxel.apiary.state.none=
+staxel.apiary.state.none=Пасека пуста
 //[Reference] 'The bees are making honey: {0-days} days remaining'
-staxel.apiary.state.producing=
+staxel.apiary.state.producing=Пчелы готовят мед: {0-days} Дней осталось
 //[Reference] 'The queen is rallying bees: {0-bees}/{1-total} bees'
-staxel.apiary.state.rallying=
+staxel.apiary.state.rallying=Королева делает пчел: {0-bees}/{1-total} пчел
 //[Reference] 'Honey is available but the bees are grumpy'
-staxel.apiary.state.waiting=
+staxel.apiary.state.waiting=Мед готов, но пчелы злые
 //[Reference] 'A bush that grows delicious blackberries. Survives out of season.'
-staxel.bush.BlackberryBush.description=
+staxel.bush.BlackberryBush.description=Куст в котором растет вкусная ежевика. Сезон не важен.
 //[Reference] 'Blackberry Bush Seed'
-staxel.bush.BlackberryBush.name=
+staxel.bush.BlackberryBush.name=Семена куста ежевики
 //[Reference] 'A bush that grows delicious blueberries. Survives out of season.'
-staxel.bush.BlueberryBush.description=
+staxel.bush.BlueberryBush.description=Куст вкусной черники. Сезон не важен.
 //[Reference] 'Blueberry Bush Seed'
-staxel.bush.BlueberryBush.name=
+staxel.bush.BlueberryBush.name=Семена куста черники
 //[Reference] 'A bush that grows delicious goldenberries. Survives out of season.'
-staxel.bush.GoldenberryBush.description=
+staxel.bush.GoldenberryBush.description=Куст вкусных золотых ягод. Сезон не важен.
 //[Reference] 'Goldenberry Bush Seed'
-staxel.bush.GoldenberryBush.name=
+staxel.bush.GoldenberryBush.name=Семена золотого куста
 //[Reference] 'A bush that grows delicious raspberries. Survives out of season.'
-staxel.bush.RaspberryBush.description=
+staxel.bush.RaspberryBush.description=Куст со вкусной малиной. Сезон не важен.
 //[Reference] 'Raspberry Bush Seed'
-staxel.bush.RaspberryBush.name=
+staxel.bush.RaspberryBush.name=Семена куста малины
 //TODO Translate [Reference] 'acorn'
-staxel.category.acorn=
+staxel.category.acorn=Желудь
 //[Reference] 'Apple Pie Stand'
-staxel.category.ApplePieStand=
+staxel.category.ApplePieStand=Яблочный пирог
 //[Reference] 'assemble'
-staxel.category.assemble=
+staxel.category.assemble=Взять
 //[Reference] 'assembly'
-staxel.category.assembly=
+staxel.category.assembly=Собрать
 //[Reference] 'Awning'
-staxel.category.awning=
+staxel.category.awning=Навес
 //[Reference] 'bake'
-staxel.category.bake=
+staxel.category.bake=Печь
 //[Reference] 'baked'
-staxel.category.baked=
+staxel.category.baked=Испеченый
 //[Reference] 'band'
-staxel.category.band=
+staxel.category.band=Повязка
 //[Reference] 'batter'
-staxel.category.batter=
+staxel.category.batter=Тесто
 //TODO Translate [Reference] 'berry'
-staxel.category.berry=
+staxel.category.berry=Ягоды
 //[Reference] 'Blackberry Pie Stand'
-staxel.category.BlackberryPieStand=
+staxel.category.BlackberryPieStand=Пирог из ежевики
 //[Reference] 'Blueberry Pie Stand'
-staxel.category.BlueberryPieStand=
+staxel.category.BlueberryPieStand=Пирог из черники
 //[Reference] 'boil'
-staxel.category.boil=
+staxel.category.boil=Варить
 //[Reference] 'boiled'
-staxel.category.boiled=
+staxel.category.boiled=Вареный
 //[Reference] 'butterfly'
-staxel.category.butterfly=
+staxel.category.butterfly=Бабочки
 //[Reference] 'Campfire Large'
-staxel.category.CampfireLarge=
+staxel.category.CampfireLarge=Большой костер
 //[Reference] 'capture'
-staxel.category.capture=
+staxel.category.capture=Поймать
 //[Reference] 'carpentry'
-staxel.category.carpentry=
+staxel.category.carpentry=Плотничество
 //[Reference] 'Carrot Cake Stand'
-staxel.category.CarrotCakeStand=
+staxel.category.CarrotCakeStand=Морковный пирог
 //[Reference] 'carve'
-staxel.category.carve=
+staxel.category.carve=Резать
 //[Reference] 'carving'
-staxel.category.carving=
+staxel.category.carving=Резаный
 //[Reference] 'case'
-staxel.category.case=
+staxel.category.case=Футляр
 //[Reference] 'cave'
-staxel.category.cave=
+staxel.category.cave=Пещера
 //[Reference] 'Cherry Pie Stand'
-staxel.category.CherryPieStand=
+staxel.category.CherryPieStand=Вишневый пирог
 //[Reference] 'Chocolate Cake Stand'
-staxel.category.ChocolateCakeStand=
+staxel.category.ChocolateCakeStand=Шоколадный торт
 //[Reference] 'cicada'
-staxel.category.cicada=
+staxel.category.cicada=Цикада
 //[Reference] 'Cloth'
-staxel.category.cloth=
+staxel.category.cloth=Ткань
 //[Reference] 'combine'
-staxel.category.combine=
+staxel.category.combine=Объединить
 //[Reference] 'construct'
-staxel.category.construct=
+staxel.category.construct=Строить
 //[Reference] 'construction'
-staxel.category.construction=
+staxel.category.construction=Строительство
 //[Reference] 'cooked'
-staxel.category.cooked=
+staxel.category.cooked=Готовка
 //[Reference] 'coral'
-staxel.category.coral=
+staxel.category.coral=Коралл
 //[Reference] 'creaturebud'
-staxel.category.creaturebud=
+staxel.category.creaturebud=Существо
 //[Reference] 'Cube'
-staxel.category.cube=
+staxel.category.cube=Куб
 //[Reference] 'doorTest'
-staxel.category.doorTest=
+staxel.category.doorTest=Дверь
 //[Reference] 'Dragon Fruit Pie Stand'
-staxel.category.DragonFruitPieStand=
+staxel.category.DragonFruitPieStand=Пирог из драконьего фрукта
 //[Reference] 'dryer'
-staxel.category.dryer=
+staxel.category.dryer=Сушить
 //[Reference] 'drying'
-staxel.category.drying=
+staxel.category.drying=Сушеный
 //[Reference] 'fey'
-staxel.category.fey=
+staxel.category.fey=Фэй
 
 //[Reference] 'fine'
-staxel.category.fine=
+staxel.category.fine=Штраф
 //[Reference] 'fly'
-staxel.category.fly=
+staxel.category.fly=Муха
 //[Reference] 'fried'
-staxel.category.fried=
+staxel.category.fried=Жареный
 //[Reference] 'fry'
-staxel.category.fry=
+staxel.category.fry=Жарить
 //[Reference] 'fryable'
-staxel.category.fryable=
+staxel.category.fryable=Поджареный
 
 //[Reference] 'gazebo'
-staxel.category.gazebo=
+staxel.category.gazebo=Беседка
 //[Reference] 'Golden Pumpkin'
-staxel.category.GoldenPumpkin=
+staxel.category.GoldenPumpkin=Золотая тыква
 //[Reference] 'Golden Strawberry'
-staxel.category.GoldenStrawberry=
+staxel.category.GoldenStrawberry=Золотая клубника
 //[Reference] 'Golden Watermelon'
-staxel.category.GoldenWatermelon=
+staxel.category.GoldenWatermelon=Золотой Арбуз
 //[Reference] 'hanging'
-staxel.category.hanging=
+staxel.category.hanging=Вешать
 //[Reference] 'hay'
-staxel.category.hay=
+staxel.category.hay=Сено
 //[Reference] 'herb'
-staxel.category.herb=
+staxel.category.herb=Трава
 //[Reference] 'hinge'
-staxel.category.hinge=
+staxel.category.hinge=Шарнир
 //[Reference] 'iron'
-staxel.category.iron=
+staxel.category.iron=Железо
 
 //[Reference] 'Japanese'
-staxel.category.japanese=
+staxel.category.japanese=Японский
 //[Reference] 'jelly'
-staxel.category.jelly=
+staxel.category.jelly=Желе
 //[Reference] 'kennel'
-staxel.category.kennel=
+staxel.category.kennel=Конура
 //[Reference] 'Knob'
-staxel.category.Knob=
+staxel.category.Knob=Ручка
 //[Reference] 'latch'
-staxel.category.latch=
+staxel.category.latch=Защелка
 //[Reference] 'laundry'
-staxel.category.laundry=
+staxel.category.laundry=Стирка
 //[Reference] 'left'
-staxel.category.left=
+staxel.category.left=Лево
 //[Reference] 'Lemon Pie Stand'
-staxel.category.LemonPieStand=
+staxel.category.LemonPieStand=Лимонный пирог
 //[Reference] 'LightBlue'
-staxel.category.LightBlue=
+staxel.category.LightBlue=Голубой
 //[Reference] 'LightGreen'
-staxel.category.LightGreen=
+staxel.category.LightGreen=Салатовый
 //[Reference] 'Lime Pie Stand'
-staxel.category.LimePieStand=
+staxel.category.LimePieStand=Лаймовый пирог
 //[Reference] 'lumber'
-staxel.category.lumber=
+staxel.category.lumber=Бревно
 //[Reference] 'masonry'
-staxel.category.masonry=
+staxel.category.masonry=Кладка
 //[Reference] 'meat'
-staxel.category.meat=
+staxel.category.meat=Мясо
 //[Reference] 'mine'
-staxel.category.mine=
+staxel.category.mine=Рудник
 //[Reference] 'mix'
-staxel.category.mix=
+staxel.category.mix=Смесь
 //[Reference] 'mortar'
-staxel.category.mortar=
+staxel.category.mortar=Ступка
 //[Reference] 'mushrooms'
-staxel.category.mushrooms=
+staxel.category.mushrooms=Грибы
 //[Reference] 'nail'
-staxel.category.nail=
+staxel.category.nail=Гвоздь
 //[Reference] 'ocean'
-staxel.category.ocean=
+staxel.category.ocean=Океан
 //[Reference] 'octopus'
-staxel.category.octopus=
+staxel.category.octopus=Осьминог
 //[Reference] 'Orange Pie Stand'
-staxel.category.OrangePieStand=
+staxel.category.OrangePieStand=Апельсиновый пирог
 
 //[Reference] 'order'
-staxel.category.order=
+staxel.category.order=Посылка
 //[Reference] 'palm'
-staxel.category.palm=
+staxel.category.palm=Пальма
 //[Reference] 'pancakes'
-staxel.category.pancakes=
+staxel.category.pancakes=Блины
 //[Reference] 'pane'
-staxel.category.pane=
+staxel.category.pane=Панель
 //[Reference] 'patisserie'
-staxel.category.patisserie=
+staxel.category.patisserie=Булочки
 //[Reference] 'Peach Pie Stand'
-staxel.category.PeachPieStand=
+staxel.category.PeachPieStand=Персиковый пирог
 //[Reference] 'Plain Cake Stand'
-staxel.category.PlainCakeStand=
+staxel.category.PlainCakeStand=Обычный пирог
 //TODO Translate [Reference] 'platform'
-staxel.category.platform=
+staxel.category.platform=Платформа
 //[Reference] 'poop'
-staxel.category.poop=
+staxel.category.poop=Какашка
 //[Reference] 'popcorn'
-staxel.category.popcorn=
+staxel.category.popcorn=Попкорн
 //[Reference] 'porridge'
-staxel.category.porridge=
+staxel.category.porridge=Каша
 //[Reference] 'rack'
-staxel.category.rack=
+staxel.category.rack=Полка
 //[Reference] 'rice'
-staxel.category.rice=
+staxel.category.rice=Рис
 //[Reference] 'salad'
-staxel.category.salad=
+staxel.category.salad=Салат
 //[Reference] 'sawing'
-staxel.category.sawing=
+staxel.category.sawing=Пилка
 //TODO Translate [Reference] 'scaffold'
-staxel.category.scaffold=
+staxel.category.scaffold=Леса
 //TODO Translate [Reference] 'scaffolding'
-staxel.category.scaffolding=
+staxel.category.scaffolding=Леса
 //[Reference] 'sea'
-staxel.category.sea=
+staxel.category.sea=Море
 //[Reference] 'sheared'
-staxel.category.sheared=
+staxel.category.sheared=Стрижка
 //[Reference] 'sheet'
-staxel.category.sheet=
+staxel.category.sheet=Лист
 //[Reference] 'shell'
-staxel.category.shell=
+staxel.category.shell=Ракушка
 //[Reference] 'shingles'
-staxel.category.shingles=
+staxel.category.shingles=лишай
 //[Reference] 'shrine'
-staxel.category.shrine=
+staxel.category.shrine=Святыня
 //[Reference] 'smoothie'
-staxel.category.smoothie=
+staxel.category.smoothie=Смузи
 //[Reference] 'snowdust'
-staxel.category.snowdust=
+staxel.category.snowdust=Снег
 //[Reference] 'standalone'
-staxel.category.standalone=
+staxel.category.standalone=Самосоятельный
 //[Reference] 'star'
-staxel.category.star=
+staxel.category.star=Звезда
 //[Reference] 'straight roof'
-staxel.category.straight roof=
+staxel.category.straight roof=Ровная крыша
 //[Reference] 'Strawberry Pie Stand'
-staxel.category.StrawberryPieStand=
+staxel.category.StrawberryPieStand=Клубничный Пирог
 //[Reference] 'Sun'
-staxel.category.sun=
+staxel.category.sun=Солнце
 //[Reference] 'Sunflower'
-staxel.category.Sunflower=
+staxel.category.Sunflower=Подсолнух
 //[Reference] 'tackle'
-staxel.category.tackle=
+staxel.category.tackle=Снаряжение
 //[Reference] 'throne'
-staxel.category.throne=
+staxel.category.throne=Трон
 //[Reference] 'unbaked'
-staxel.category.unbaked=
+staxel.category.unbaked=Неготовый
 //[Reference] 'upside down straight roof'
-staxel.category.upside down straight roof=
+staxel.category.upside down straight roof=Перевернутая крыша
 //[Reference] 'varnish'
-staxel.category.varnish=
+staxel.category.varnish=Лак
 //[Reference] 'Vegetable Pie Stand'
-staxel.category.VegetablePieStand=
+staxel.category.VegetablePieStand=Овощной Пирог
 //[Reference] 'washer'
-staxel.category.washer=
+staxel.category.washer=Мойщик
 //[Reference] 'washing'
-staxel.category.washing=
+staxel.category.washing=Вымытый
 //[Reference] '???'
-staxel.collections.unknown=
+staxel.collections.unknown=???
 
 staxel.core.Compound.description=
 //[Reference] 'Compound'
@@ -2145,7 +2146,7 @@ staxel.merchant.paid=
 staxel.merchant.received=
 
 //[Reference] 'Rob'
-staxel.merchant.Rob.name=
+staxel.merchant.Rob.name=Кража
 
 //[Reference] 'Sell Box Default'
 staxel.merchant.SellBoxDefault=
@@ -2295,7 +2296,7 @@ staxel.notifications.weatherAlreadyWatered=
 //[Reference] 'You don't need to water crops on snowy days!'
 staxel.notifications.weatherSnowyAlreadyWatered=
 //[Reference] 'This isn't the right tool'
-staxel.notifications.WrongTool=
+staxel.notifications.WrongTool=Не тот инструмент
 //[Reference] 'break'
 staxel.notifications.WrongTool.Verb.Break=
 //[Reference] 'catch'
@@ -2330,21 +2331,21 @@ staxel.notifications.WrongToolUniversal.4=
 staxel.notifications.WrongToolUniversal.5=
 
 //[Reference] 'Chicken'
-staxel.personality.Chicken=
+staxel.personality.Chicken=Курица
 //[Reference] 'Cow'
-staxel.personality.Cow=
+staxel.personality.Cow=Корова
 //[Reference] 'Feminine'
-staxel.personality.feminine=
+staxel.personality.feminine=Женщина
 //[Reference] 'Pig'
-staxel.personality.Pig=
+staxel.personality.Pig=Свинья
 //[Reference] 'Sheep'
-staxel.personality.Sheep=
+staxel.personality.Sheep=Овца
 //[Reference] 'Standard'
-staxel.personality.standard=
+staxel.personality.standard=Стандарт
 //[Reference] 'Cat'
-staxel.pets.Cat.name=
+staxel.pets.Cat.name=Киса
 //[Reference] 'Dog'
-staxel.pets.Dog.name=
+staxel.pets.Dog.name=Пёсик
 
 //[Reference] '{0-pet} has brought you a gift!'
 staxel.pets.GiftReceived={0-pet}
@@ -2385,46 +2386,46 @@ staxel.plant.gatherable.StarJelly.name=
 //[Reference] 'Free in Creative'
 staxel.priceTag.freeInCreative=
 //[Reference] 'Autumn'
-staxel.season.Autumn=
+staxel.season.Autumn=Осень
 
 //[Reference] '1st'
-staxel.season.date.1=
+staxel.season.date.1=1-е
 //[Reference] '2nd'
-staxel.season.date.2=
+staxel.season.date.2=2-е
 //[Reference] '3rd'
-staxel.season.date.3=
+staxel.season.date.3=3-е
 //[Reference] '4th'
-staxel.season.date.4=
+staxel.season.date.4=4-е
 //[Reference] '5th'
-staxel.season.date.5=
+staxel.season.date.5=5-е
 //[Reference] '6th'
-staxel.season.date.6=
+staxel.season.date.6=6-е
 //[Reference] '7th'
-staxel.season.date.7=
+staxel.season.date.7=7-е
 //[Reference] '8th'
-staxel.season.date.8=
+staxel.season.date.8=8-е
 //[Reference] '9th'
-staxel.season.date.9=
+staxel.season.date.9=9-е
 //[Reference] '10th'
-staxel.season.date.10=
+staxel.season.date.10=10-е
 //[Reference] '11th'
-staxel.season.date.11=
+staxel.season.date.11=11-е
 //[Reference] '12th'
-staxel.season.date.12=
+staxel.season.date.12=12-е
 //[Reference] '13th'
-staxel.season.date.13=
+staxel.season.date.13=13-е
 //[Reference] '14th'
-staxel.season.date.14=
+staxel.season.date.14=14-е
 //[Reference] '15th'
-staxel.season.date.15=
+staxel.season.date.15=15-е
 //[Reference] '16th'
-staxel.season.date.16=
+staxel.season.date.16=16-е
 //[Reference] 'Spring'
-staxel.season.Spring=
+staxel.season.Spring=Весна
 //[Reference] 'Summer'
-staxel.season.Summer=
+staxel.season.Summer=Лето
 //[Reference] 'Winter'
-staxel.season.Winter=
+staxel.season.Winter=Зима
 
 //[Reference] 'Open your delivery before selling Items!'
 staxel.shipping.dock.openDeliveryBeforeSell=
@@ -3928,46 +3929,46 @@ staxel.tree.TangerineTree.description=
 //[Reference] 'Tangerine Tree'
 staxel.tree.TangerineTree.name=
 //[Reference] '{0-name} has left the village.'
-staxel.village.villagerLeftTown={0-name}
+staxel.village.villagerLeftTown={0-name} ушел из города.
 //[Reference] 'Aliza'
-staxel.villager.Aliza.name=
+staxel.villager.Aliza.name=Элиза
 //[Reference] 'Ami'
-staxel.villager.Ami.name=
+staxel.villager.Ami.name=Эми
 //[Reference] 'Caren'
-staxel.villager.Caren.name=
+staxel.villager.Caren.name=Карен
 //[Reference] 'Cecile'
-staxel.villager.Cecile.name=
+staxel.villager.Cecile.name=Сисиль
 //[Reference] 'Riah?!?'
-staxel.villager.DefinitelyNotRiah.name=
+staxel.villager.DefinitelyNotRiah.name=Рая?!?
 //[Reference] 'Emilia'
-staxel.villager.Emilia.name=
+staxel.villager.Emilia.name=Эмилия
 //[Reference] 'Eris'
-staxel.villager.Eris.name=
+staxel.villager.Eris.name=Эрис
 //[Reference] 'Farm Fan'
-staxel.villager.FarmFan.name=
+staxel.villager.FarmFan.name=Фанатка ферм
 //[Reference] 'Fey Queen'
-staxel.villager.FeyQueen.name=
+staxel.villager.FeyQueen.name=Королева фей
 //[Reference] 'Jamie'
-staxel.villager.Jamie.name=
+staxel.villager.Jamie.name=Джеми
 //[Reference] 'Leif'
-staxel.villager.Leif.name=
+staxel.villager.Leif.name=Лейф
 //[Reference] 'Maximilian'
-staxel.villager.Maximilian.name=
+staxel.villager.Maximilian.name=Максимилиан
 //[Reference] 'Riah!'
-staxel.villager.MaybeRiah.name=
+staxel.villager.MaybeRiah.name=Может Рая
 //[Reference] 'Riah?'
-staxel.villager.NotRiah.name=
+staxel.villager.NotRiah.name=Не Рая
 //[Reference] 'Oscar'
-staxel.villager.Oscar.name=
+staxel.villager.Oscar.name=Оскар
 //[Reference] 'Riah'
-staxel.villager.Riah.name=
+staxel.villager.Riah.name=Рая
 //[Reference] 'Rosemary'
-staxel.villager.Rosemary.name=
+staxel.villager.Rosemary.name=Розмари
 //[Reference] 'Rowan'
-staxel.villager.Rowan.name=
-staxel.weed.Weed1.description=
+staxel.villager.Rowan.name=Рован
+staxel.weed.Weed1.description=Обычная трава
 //[Reference] 'Weed'
-staxel.weed.Weed1.name=
+staxel.weed.Weed1.name=Трава
 
 //[Reference] 'Staxel Development Build'
 version.developmentBuild=
@@ -3977,11 +3978,11 @@ wardrobe.CantEquip=
 wardrobe.UseAWardrobe=
 
 //[Reference] 'Play With Friends'
-multiplayerMenu.playWithFriends=
+multiplayerMenu.playWithFriends=Играть с друзьями
 //[Reference] 'Play With Friends'
-singleplayer.playWithFriends=
+singleplayer.playWithFriends=Играть с друзьями
 //[Reference] 'Allow friend joins'
-singleplayer.friendJoin=
+singleplayer.friendJoin=Разрешать присоединяться
 //[Reference] 'Bottled Firefly'
 staxel.tileObject.decorations.BottledFirefly.name=
 //[Reference] ''
